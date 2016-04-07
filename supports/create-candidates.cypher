@@ -42,18 +42,18 @@ All nodes for Cavan-Monaghan
 ===============================
 
 CREATE
-(name:candidate15 {Name: "Micheal Callaghan", gender: "Male", constituency: "Cavan-Monaghan", party: "Green Party", age: 24}),
-(name:candidate15 {Name: "Sean Conlan", gender: "Male", constituency: "Cavan-Monaghan",	party: "Independent", age: 40}),
-(name:candidate15 {Name: "Mike Durkan", gender: "Male", constituency: "Cavan-Monaghan",	party: "Fianna Fail", age: 37}),
-(name:candidate15 {Name: "Heather Humphries", gender: "Female", constituency: "Cavan-Monaghan",	party: "Fine Gael", age: 55}),
-(name:candidate15 {Name: "Mick McDermott", gender: "Male", constituency: "Cavan-Monaghan", party: "Direct Democracy Ireland", age: 35}),
-(name:candidate15 {Name: "Jimmy Mee Male", gender: "Male", constituency: "Cavan-Monaghan", party: "Independent"}, age: 48),	
-(name:candidate15 {Name: "Caoimhghin O'Caolain", gender: "Male", constituency: "Cavan-Monaghan", party: "Sinn Fein", age: 62}),	
-(name:candidate15 {Name: "Aoife O'Connell", gender: "Female", constituency: "Cavan-Monaghan", party: "Direct Democracy Ireland", age: 48}),	
-(name:candidate15 {Name: "Joe O'Reilly Male", gender: "Male", constituency: "Cavan-Monaghan", party: "Fine Gael", age: 60}),
-(name:candidate15 {Name: "Kathryn Reilly", gender: "Female", constituency: "Cavan-Monaghan", party: "Sinn Fein", age: 27}),
-(name:candidate15 {Name: "Emmett Smith", gender: "Male", constituency: "Cavan-Monaghan", party: "Independent", age: 40}),
-(name:candidate15 {Name: "Brendan Smith", gender: "Male", constituency: "Cavan-Monaghan", party: "Fianna Fail", age: 59}),
-(name:candidate15 {Name: "Niamh Smyth", gender: "Female", constituency: "Cavan-Monaghan", party: "Fianna Fail", age: 35}),
-(name:candidate15 {Name: "Mary Smyth", gender: "Female", constituency: "Cavan-Monaghan", party: "Renua", age: 53}),
-(name:candidate15 {Name: "John Wilson", gender: "Male", constituency: "Cavan-Monaghan", party: "Independent", age:52});
+(candidate16:Candidate {Name: "Micheal Callaghan", gender: "Male", constituency: "Cavan-Monaghan", party: "Green Party", age: 24}),
+(candidate17:Candidate {Name: "Sean Conlan", gender: "Male", constituency: "Cavan-Monaghan", party: "Independent", age: 40}),
+(candidate18:Candidate {Name: "Mike Durkan", gender: "Male", constituency: "Cavan-Monaghan", party: "Fianna Fail", age: 37}),
+(candidate19:Candidate {Name: "Heather Humphries", gender: "Female", constituency: "Cavan-Monaghan", party: "Fine Gael", age: 55}),
+(candidate20:Candidate {Name: "Mick McDermott", gender: "Male", constituency: "Cavan-Monaghan", party: "Direct Democracy Ireland", age: 35}),
+(candidate21:Candidate {Name: "Jimmy Mee Male", gender: "Male", constituency: "Cavan-Monaghan", party: "Independent", age: 48}),	
+(candidate22:Candidate {Name: "Caoimhghin O'Caolain", gender: "Male", constituency: "Cavan-Monaghan", party: "Sinn Fein", age: 62}),	
+(candidate23:Candidate {Name: "Aoife O'Connell", gender: "Female", constituency: "Cavan-Monaghan", party: "Direct Democracy Ireland", age: 48}),	
+(candidate24:Candidate {Name: "Joe O'Reilly Male", gender: "Male", constituency: "Cavan-Monaghan", party: "Fine Gael", age: 60}),
+(candidate25:Candidate {Name: "Kathryn Reilly", gender: "Female", constituency: "Cavan-Monaghan", party: "Sinn Fein", age: 27}),
+(candidate26:Candidate {Name: "Emmett Smith", gender: "Male", constituency: "Cavan-Monaghan", party: "Independent", age: 40}),
+(candidate27:Candidate {Name: "Brendan Smith", gender: "Male", constituency: "Cavan-Monaghan", party: "Fianna Fail", age: 59}),
+(candidate28:Candidate {Name: "Niamh Smyth", gender: "Female", constituency: "Cavan-Monaghan", party: "Fianna Fail", age: 35}),
+(candidate29:Candidate {Name: "Mary Smyth", gender: "Female", constituency: "Cavan-Monaghan", party: "Renua", age: 53}),
+(candidate30:Candidate {Name: "John Wilson", gender: "Male", constituency: "Cavan-Monaghan", party: "Independent", age:52});
