@@ -138,3 +138,24 @@ CREATE
 (candidate85:Candidate {Name: "Steven O'Riordan", gender: "Male", constituency: "Cork North-West", party: "Independent", age: 29}),
 (candidate86:Candidate {Name: "John Paul O'Shea", gender: "Male", constituency: "Cork North-West", party: "Independent", age: 32}),
 (candidate87:Candidate {Name: "Jerry O'Sullivan", gender: "Male", constituency: "Cork North-West", party: "Independent", age: 52});
+
+===========================================
+All nodes for Cork South-Central Candidates
+===========================================
+
+CREATE
+(candidate88:Candidate {Name: "Lorna Bogue", gender: "Female", constituency: "Cork South-Central", party: "Green Party", age: 24}),
+(candidate89:Candidate {Name: "Jerry Buttimer", gender: "Male", constituency: "Cork South-Central", party: "Fine Gael", age: 48}),
+(candidate90:Candidate {Name: "Simon Coveney", gender: "Male", constituency: "Cork South-Central", party: "Fine Gael", age: 43}),
+(candidate91:Candidate {Name: "Mick Finn", gender: "Male", constituency: "Cork South-Central", party: "Independent", age: 45}),
+(candidate92:Candidate {Name: "Joe	Harris", gender: "Male", constituency: "Cork South-Central", party: "Independent", age: 58}),
+(candidate93:Candidate {Name: "Elizabeth Hourihane", gender: "Female", constituency: "Cork South-Central", party: "Independent", age: 49}),	
+(candidate94:Candidate {Name: "Ciaran Kenneally", gender: "Male", constituency: "Cork South-Central", party: "Renua", age: 38}),	
+(candidate95:Candidate {Name: "Ciaran Lynch", gender: "Male", constituency: "Cork South-Central", party: "Labour Party", age: 51}),
+(candidate96:Candidate {Name: "Micheal Martin", gender: "Male", constituency: "Cork South-Central", party: "Fianna Fail", age: 55}),
+(candidate97:Candidate {Name: "Michael	McGrath", gender: "Male", constituency: "Cork South-Central", party: "Fianna Fail", age: 39}),
+(candidate98:Candidate {Name: "Michael	Mohally", gender: "Male", constituency: "Cork South-Central", party: "Independent", age: 58}),
+(candidate99:Candidate {Name: "Diarmaid O Cadhla", gender: "Male", constituency: "Cork South-Central", party: "Independent", age: 55 }),
+(candidate100:Candidate {Name: "Jim	O'Connell", gender: "Male", constituency: "Cork South-Central", party: "AAA-PBP", age: 56 }),
+(candidate101:Candidate {Name: "Donnchadh O Laoghaire", gender: "Male", constituency: "Cork South-Central", party: "Sinn Fein", age: 26 }),
+(candidate102:Candidate {Name: "Fiona Ryan", gender: "Female", constituency: "Cork South-Central", party: "AAA-PBP", age: 26 });
