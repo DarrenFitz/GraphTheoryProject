@@ -108,7 +108,7 @@ CREATE
 (candidate61:Candidate {Name: "Mick Barry", gender: "Male", constituency: "Cork North-Central", party: "AAA-PBP", age: 52}),
 (candidate62:Candidate {Name: "Thomas Gould", gender: "Male", constituency: "Cork North-Central", party: "Sinn Fein", age: 54}),
 (candidate63:Candidate {Name: "Billy Kelleher", gender: "Male", constituency: "Cork North-Central", party: "Fianna Fail", age: 47}),
-(candidate64:Candidate {Name: "Ger	Keohane", gender: "Male", constituency: "Cork North-Central", party: "Independent", age: 47}),
+(candidate64:Candidate {Name: "Ger Keohane", gender: "Male", constituency: "Cork North-Central", party: "Independent", age: 47}),
 (candidate65:Candidate {Name: "Thomas Kiely", gender: "Male", constituency: "Cork North-Central", party: "Independent", age: 32}),
 (candidate66:Candidate {Name: "Kathleen Lynch", gender: "Female", constituency: "Cork North-Central", party: "Labour Party", age: 62}),	
 (candidate67:Candidate {Name: "Oliver Moran", gender: "Male", constituency: "Cork North-Central", party: "Green Party", age: 37}),	
@@ -119,3 +119,22 @@ CREATE
 (candidate72:Candidate {Name: "Julie O'Leary", gender: "Female", constituency: "Cork North-Central", party: "Fine Gael", age: 25}),
 (candidate73:Candidate {Name: "Peter O'Loughlin", gender: "Male", constituency: "Cork North-Central", party: "Independent", age: 26}),
 (candidate74:Candidate {Name: "Ted Tynan", gender: "Male", constituency: "Cork North-Central", party: "Workers' Party", age: 73});
+
+===========================================
+All nodes for Cork North-West Candidates
+===========================================
+
+CREATE
+(candidate75:Candidate {Name: "Aine Collins", gender: "Female", constituency: "Cork North-West", party: "Fine Gael", age: 46}),
+(candidate76:Candidate {Name: "Michael Creed", gender: "Male", constituency: "Cork North-West", party: "Fine Gael", age: 52}),
+(candidate77:Candidate {Name: "Nigel Dennehy", gender: "Male", constituency: "Cork North-West", party: "Sinn Fein", age: 27}),
+(candidate78:Candidate {Name: "Jason Fitzgerald", gender: "Male", constituency: "Cork North-West", party: "Renua", age: 42}),
+(candidate79:Candidate {Name: "Shirley Griffin", gender: "Female", constituency: "Cork North-West", party: "Independent", age: 50}),
+(candidate80:Candidate {Name: "Cormac Manning", gender: "Male", constituency: "Cork North-West", party: "Green Party", age: 23}),	
+(candidate81:Candidate {Name: "Michael Moynihan", gender: "Male", constituency: "Cork North-West", party: "Fianna Fail", age: 47}),	
+(candidate82:Candidate {Name: "Aindrias Moynihan", gender: "Male", constituency: "Cork North-West", party: "Fianna Fail", age: 38}),	
+(candidate83:Candidate {Name: "Michael O'Donnell", gender: "Male", constituency: "Cork North-West", party: "Communist Party of Ireland", age: 73}),
+(candidate84:Candidate {Name: "Diarmuid O'Flynn	", gender: "Male", constituency: "Cork North-West", party: "Independent", age: 62}),
+(candidate85:Candidate {Name: "Steven O'Riordan", gender: "Male", constituency: "Cork North-West", party: "Independent", age: 29}),
+(candidate86:Candidate {Name: "John Paul O'Shea", gender: "Male", constituency: "Cork North-West", party: "Independent", age: 32}),
+(candidate87:Candidate {Name: "Jerry O'Sullivan", gender: "Male", constituency: "Cork North-West", party: "Independent", age: 52});

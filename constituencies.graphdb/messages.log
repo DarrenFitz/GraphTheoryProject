@@ -657,3 +657,22 @@ Storage files: (filename : modification date - size)
 2016-04-07 22:06:28.109+0000 INFO  [o.n.k.i.t.l.c.CheckPointerImpl] Check Pointing triggered by scheduler for time threshold [16]:  Check pointing completed
 2016-04-07 22:06:28.119+0000 INFO  [o.n.k.i.t.l.p.LogPruningImpl] Log Rotation [0]:  Starting log pruning.
 2016-04-07 22:06:28.130+0000 INFO  [o.n.k.i.t.l.p.LogPruningImpl] Log Rotation [0]:  Log pruning complete.
+2016-04-07 22:25:51.717+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 316ms.
+2016-04-07 22:27:22.709+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 241ms.
+2016-04-07 22:27:34.647+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 695ms.
+2016-04-07 22:27:35.064+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 233ms.
+2016-04-07 22:30:22.254+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 202ms.
+2016-04-07 22:32:11.351+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 245ms.
+2016-04-07 22:32:31.954+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 277ms.
+2016-04-07 22:32:33.258+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 424ms.
+2016-04-07 22:54:50.254+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 773ms.
+2016-04-07 23:13:01.181+0000 INFO  [o.n.k.i.t.l.c.CheckPointerImpl] Check Pointing triggered by scheduler for time threshold [17]:  Starting check pointing...
+2016-04-07 23:13:01.181+0000 INFO  [o.n.k.i.t.l.c.CheckPointerImpl] Check Pointing triggered by scheduler for time threshold [17]:  Starting store flush...
+2016-04-07 23:13:01.413+0000 INFO  [o.n.k.i.s.c.CountsTracker] About to rotate counts store at transaction 17 to [C:\Users\Darren\Desktop\project-template-master\constituencies.graphdb\neostore.counts.db.a], from [C:\Users\Darren\Desktop\project-template-master\constituencies.graphdb\neostore.counts.db.b].
+2016-04-07 23:13:01.445+0000 INFO  [o.n.k.i.s.c.CountsTracker] Successfully rotated counts store at transaction 17 to [C:\Users\Darren\Desktop\project-template-master\constituencies.graphdb\neostore.counts.db.a], from [C:\Users\Darren\Desktop\project-template-master\constituencies.graphdb\neostore.counts.db.b].
+2016-04-07 23:13:01.713+0000 INFO  [o.n.k.i.t.l.c.CheckPointerImpl] Check Pointing triggered by scheduler for time threshold [17]:  Store flush completed
+2016-04-07 23:13:01.728+0000 INFO  [o.n.k.i.t.l.c.CheckPointerImpl] Check Pointing triggered by scheduler for time threshold [17]:  Starting appending check point entry into the tx log...
+2016-04-07 23:13:01.749+0000 INFO  [o.n.k.i.t.l.c.CheckPointerImpl] Check Pointing triggered by scheduler for time threshold [17]:  Appending check point entry into the tx log completed
+2016-04-07 23:13:01.750+0000 INFO  [o.n.k.i.t.l.c.CheckPointerImpl] Check Pointing triggered by scheduler for time threshold [17]:  Check pointing completed
+2016-04-07 23:13:01.766+0000 INFO  [o.n.k.i.t.l.p.LogPruningImpl] Log Rotation [0]:  Starting log pruning.
+2016-04-07 23:13:01.766+0000 INFO  [o.n.k.i.t.l.p.LogPruningImpl] Log Rotation [0]:  Log pruning complete.
