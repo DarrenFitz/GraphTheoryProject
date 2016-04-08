@@ -566,3 +566,27 @@ CREATE
 (candidate378:Candidate {Name: "Richard O'Donoghue", gender: "Male", constituency: "Limerick County", party: "Independent", age: 47}),
 (candidate379:Candidate {Name: "Patrick	O'Donovan", gender: "Male", constituency: "Limerick County", party: "Fine Gael", age: 38}),
 (candidate380:Candidate {Name: "John O'Gorman", gender: "Male", constituency: "Limerick County", party: "Independent", age: 67});
+
+===========================================
+Nodes for Longford-Westmeath Candidates
+===========================================
+
+CREATE
+(candidate381:Candidate {Name: "James Bannon", gender: "Male", constituency: "Longford-Westmeath", party: "Fine Gael", age: 57}),
+(candidate382:Candidate {Name: "Peter Burke", gender: "Male", constituency: "Longford-Westmeath", party: "Fine Gael", age: 33}),
+(candidate383:Candidate {Name: "Brian Fagan", gender: "Male", constituency: "Longford-Westmeath", party: "Independent", age: 68}),
+(candidate384:Candidate {Name: "Connie Gerety-Quinn", gender: "Female", constituency: "Longford-Westmeath", party: "Fianna Fail", age: 48}),
+(candidate385:Candidate {Name: "Stephanie Healy", gender: "Female", constituency: "Longford-Westmeath", party: "Direct Democracy Ireland", age: 27}),
+(candidate386:Candidate {Name: "Paul Hogan", gender: "Male", constituency: "Longford-Westmeath", party: "Sinn Fein", age: 32}),
+(candidate387:Candidate {Name: "Donal Jackson", gender: "Male", constituency: "Longford-Westmeath", party: "Independent", age: 62}),
+(candidate388:Candidate {Name: "Manchan Magan", gender: "Male", constituency: "Longford-Westmeath", party: "Green Party", age: 45}),
+(candidate389:Candidate {Name: "Gabrielle McFadden", gender: "Female", constituency: "Longford-Westmeath", party: "Fine Gael", age: 48}),
+(candidate390:Candidate {Name: "Noel McKervey", gender: "Male", constituency: "Longford-Westmeath", party: "Catholic Democrats", age: 70}),
+(candidate391:Candidate {Name: "James Miller", gender: "Male", constituency: "Longford-Westmeath", party: "Independent", age: 63}),
+(candidate392:Candidate {Name: "Kevin Moran", gender: "Male", constituency: "Longford-Westmeath", party: "Independent", age: 45}),
+(candidate393:Candidate {Name: "James Morgan", gender: "Male", constituency: "Longford-Westmeath", party: "Independent", age: 44}),
+(candidate394:Candidate {Name: "Dom Parker", gender: "Male", constituency: "Longford-Westmeath", party: "Anti Austerity Alliance", age: 57}),
+(candidate395:Candidate {Name: "Willie Penrose", gender: "Male", constituency: "Longford-Westmeath", party: "Labour Party", age: 59}),
+(candidate396:Candidate {Name: "Mae Sexton", gender: "Female", constituency: "Longford-Westmeath", party: "Independent", age: 60}),
+(candidate397:Candidate {Name: "Barbara	Smyth", gender: "Female", constituency: "Longford-Westmeath", party: "Independent", age: 48}),
+(candidate398:Candidate {Name: "Robert Troy", gender: "Male", constituency: "Longford-Westmeath", party: "Fianna Fail", age: 33});
