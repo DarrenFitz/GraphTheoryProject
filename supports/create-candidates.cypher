@@ -339,3 +339,22 @@ CREATE
 (candidate226:Candidate {Name: "Alan Shatter", gender: "Male", constituency: "Dublin Rathdown", party: "Fine Gael", age: 64}),	
 (candidate227:Candidate {Name: "Mary White", gender: "Female", constituency: "Dublin Rathdown", party: "Fianna Fail", age: 71}),
 (candidate228:Candidate {Name: "Alex White", gender: "Male", constituency: "Dublin Rathdown", party: "Labour Party", age: 56});
+
+===========================================
+Nodes for Dublin South-Central Candidates
+===========================================
+
+CREATE
+(candidate229:Candidate {Name: "Catherine Ardagh", gender: "Female", constituency: "Dublin South-Central", party: "Fianna Fail", age: 33}),
+(candidate230:Candidate {Name: "Neville Bradley", gender: "Male", constituency: "Dublin South-Central", party: "Direct Democracy Ireland", age: 54}),
+(candidate231:Candidate {Name: "Catherine Byrne", gender: "Female", constituency: "Dublin South-Central", party: "Fine Gael", age: 59}),
+(candidate232:Candidate {Name: "Eric Byrne", gender: "Male", constituency: "Dublin South-Central", party: "Labour Party", age: 68}),
+(candidate233:Candidate {Name: "Joan Collins", gender: "Female", constituency: "Dublin South-Central", party: "Independents 4 Change", age: 54}),
+(candidate234:Candidate {Name: "Liam Coyne", gender: "Male", constituency: "Dublin South-Central", party: "Social Democrats", age: 49}),	
+(candidate235:Candidate {Name: "Maire Devine", gender: "Female", constituency: "Dublin South-Central", party: "Sinn Fein", age: 52}),	
+(candidate236:Candidate {Name: "Michael Gargan", gender: "Male", constituency: "Dublin South-Central", party: "Renua", age: 36}),
+(candidate237:Candidate {Name: "Paul Hand", gender: "Male", constituency: "Dublin South-Central", party: "Independent", age: 29}),
+(candidate238:Candidate {Name: "Richard Murray", gender: "Male", constituency: "Dublin South-Central", party: "Independent", age: 30}),
+(candidate239:Candidate {Name: "Oisin O hAlmhain", gender: "Male", constituency: "Dublin South-Central", party: "Green Party", age: 43}),
+(candidate240:Candidate {Name: "Aengus O Snodaigh", gender: "Male", constituency: "Dublin South-Central", party: "Sinn Fein", age: 51}),
+(candidate241:Candidate {Name: "Brid Smith", gender: "Female", constituency: "Dublin South-Central", party: "AAA-PBP", age: 57});
