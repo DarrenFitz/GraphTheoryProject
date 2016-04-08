@@ -590,3 +590,53 @@ CREATE
 (candidate396:Candidate {Name: "Mae Sexton", gender: "Female", constituency: "Longford-Westmeath", party: "Independent", age: 60}),
 (candidate397:Candidate {Name: "Barbara	Smyth", gender: "Female", constituency: "Longford-Westmeath", party: "Independent", age: 48}),
 (candidate398:Candidate {Name: "Robert Troy", gender: "Male", constituency: "Longford-Westmeath", party: "Fianna Fail", age: 33});
+
+===========================================
+Nodes for Louth Candidates
+===========================================
+
+CREATE
+(candidate399:Candidate {Name: "Gerry Adams", gender: "Male", constituency: "Louth", party: "Sinn Fein", age: 67}),
+(candidate400:Candidate {Name: "David Bradley", gender: "Male", constituency: "Louth", party: "Independent", age: 61}),
+(candidate401:Candidate {Name: "Declan Breathnach", gender: "Male", constituency: "Louth", party: "Fianna Fail", age: 57}),
+(candidate402:Candidate {Name: "Kevin Callan", gender: "Male", constituency: "Louth", party: "Independent", age: 33}),
+(candidate403:Candidate {Name: "Emma Coffey", gender: "Female", constituency: "Louth", party: "Fianna Fail", age: 37}),
+(candidate404:Candidate {Name: "Anthony	Connor", gender: "Male", constituency: "Louth", party: "Direct Democracy Ireland", age: 42}),
+(candidate405:Candidate {Name: "Mark Dearey", gender: "Male", constituency: "Louth", party: "Green Party", age: 52}),
+(candidate406:Candidate {Name: "Peter Fitzpatrick", gender: "Male", constituency: "Louth", party: "Fine Gael", age: 53}),
+(candidate407:Candidate {Name: "Pat Greene", gender: "Male", constituency: "Louth", party: "Direct Democracy Ireland", age: 52}),
+(candidate408:Candidate {Name: "Mary Moran", gender: "Female", constituency: "Louth", party: "Labour Party", age: 55}),
+(candidate409:Candidate {Name: "Imelda Munster", gender: "Female", constituency: "Louth", party: "Sinn Fein", age: 47}),
+(candidate410:Candidate {Name: "Gerald Nash", gender: "Male", constituency: "Louth", party: "Labour Party", age: 39}),
+(candidate411:Candidate {Name: "Michael	O'Dowd", gender: "Male", constituency: "Louth", party: "Renua", age: 67}),
+(candidate412:Candidate {Name: "Fergus O'Dowd", gender: "Male", constituency: "Louth", party: "Fine Gael", age: 55}),
+(candidate413:Candidate {Name: "Garett Weldon", gender: "Male", constituency: "Louth", party: "AAA-PBP", age: 57}),
+(candidate414:Candidate {Name: "Maeve Yore", gender: "Female", constituency: "Louth", party: "Independent", age: 50});
+
+===========================================
+Nodes for Mayo Candidates
+===========================================
+
+CREATE
+(candidate415:Candidate {Name: "Dara Calleary", gender: "Male", constituency: "Mayo", party: "SFianna Fail", age: 42}),
+(candidate416:Candidate {Name: "Lisa Chambers", gender: "Female", constituency: "Mayo", party: "Fianna Fail", age: 28}),
+(candidate417:Candidate {Name: "Rose Conway-Walsh", gender: "Female", constituency: "Mayo", party: "Sinn Fein", age: 39}),
+(candidate418:Candidate {Name: "Jerry Cowley", gender: "Male", constituency: "Mayo", party: "Independent", age: 63}),
+(candidate419:Candidate {Name: "Michael Farrington", gender: "Male", constituency: "Mayo", party: "Renua", age: 71}),
+(candidate420:Candidate {Name: "Sean Forkan", gender: "Male", constituency: "Mayo", party: "Independent", age: 46}),
+(candidate421:Candidate {Name: "Peter Jordan", gender: "Male", constituency: "Mayo", party: "Independent", age: 54}),
+(candidate422:Candidate {Name: "Enda Kenny", gender: "Male", constituency: "Mayo", party: "Fine Gael", age: 64}),
+(candidate423:Candidate {Name: "Stephen Manning", gender: "Male", constituency: "Mayo", party: "Independent", age: 57}),
+(candidate424:Candidate {Name: "Tom	Moran", gender: "Male", constituency: "Mayo", party: "AAA-PBP", age: 74}),
+(candidate425:Candidate {Name: "Michelle Mulherin", gender: "Female", constituency: "Mayo", party: "Fine Gael", age: 43}),
+(candidate426:Candidate {Name: "Gerry O'Boyle", gender: "Male", constituency: "Mayo", party: "Independent", age: 38}),
+(candidate427:Candidate {Name: "George O'Malley", gender: "Male", constituency: "Mayo", party: "Independent", age: 60}),
+(candidate428:Candidate {Name: "Michael	Ring", gender: "Male", constituency: "Mayo", party: "Fine Gael", age: 61}),
+(candidate429:Candidate {Name: "Margaret Sheehan", gender: "Female", constituency: "Mayo", party: "Green Party", age: 50}),
+(candidate430:Candidate {Name: "Kamal Uddin	", gender: "Male", constituency: "Mayo", party: "Independent", age: 49});
+
+
+
+
+
+
