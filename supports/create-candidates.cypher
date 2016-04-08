@@ -507,4 +507,18 @@ CREATE
 (candidate344:Candidate {Name: "Brendan	Young", gender: "Male", constituency: "Kildare North", party: "Independent", age: 56});
 
 
+===========================================
+Nodes for Kildare South Candidates
+===========================================
+
+CREATE
+(candidate345:Candidate {Name: "Declen Crowe", gender: "Male", constituency: "Kildare South", party: "Independent", age: 46}),
+(candidate346:Candidate {Name: "Martin Heydon", gender: "Male", constituency: "Kildare South", party: "Fine Gael", age: 37}),
+(candidate347:Candidate {Name: "Mary Kennedy", gender: "Female", constituency: "Kildare South", party: "Renua", age: 38}),
+(candidate348:Candidate {Name: "Suzanne McEneaney", gender: "Female", constituency: "Kildare South", party: "Green Party", age: 41}),
+(candidate349:Candidate {Name: "Fiona McLoughlin-Healy", gender: "Female", constituency: "Kildare South", party: "Fine Gael", age: 38}),
+(candidate350:Candidate {Name: "Sean O'Fearghail", gender: "Male", constituency: "Kildare South", party: "Fianna Fail", age: 55}),	
+(candidate351:Candidate {Name: "Fiona O'Loughlin", gender: "Female", constituency: "Kildare South", party: "Fianna Fail", age: 53}),	
+(candidate352:Candidate {Name: "Patricia Ryan", gender: "Female", constituency: "Kildare South", party: "Sinn Fein", age: 52}),
+(candidate353:Candidate {Name: "Mark Wall", gender: "Male", constituency: "Kildare South", party: "Labour Party", age: 45});
 
