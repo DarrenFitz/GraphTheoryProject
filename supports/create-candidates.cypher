@@ -159,3 +159,20 @@ CREATE
 (candidate100:Candidate {Name: "Jim	O'Connell", gender: "Male", constituency: "Cork South-Central", party: "AAA-PBP", age: 56 }),
 (candidate101:Candidate {Name: "Donnchadh O Laoghaire", gender: "Male", constituency: "Cork South-Central", party: "Sinn Fein", age: 26 }),
 (candidate102:Candidate {Name: "Fiona Ryan", gender: "Female", constituency: "Cork South-Central", party: "AAA-PBP", age: 26 });
+
+===========================================
+All nodes for Cork South-West Candidates
+===========================================
+
+CREATE
+(candidate103:Candidate {Name: "Alan Coleman", gender: "Male", constituency: "Cork South-West", party: "Independent", age: 58}),
+(candidate104:Candidate {Name: "Michael Collins", gender: "Male", constituency: "Cork South-West", party: "Independent", age: 57}),
+(candidate105:Candidate {Name: "Jim	Daly", gender: "Male", constituency: "Cork South-West", party: "Fine Gael", age: 42}),
+(candidate106:Candidate {Name: "Noel Harrington", gender: "Male", constituency: "Cork South-West", party: "Fine Gael", age: 44}),
+(candidate107:Candidate {Name: "Theresa Heaney", gender: "Female", constituency: "Cork South-West", party: "Catholic Democrats", age: 52}),
+(candidate108:Candidate {Name: "Rachel McCarthy	", gender: "Female", constituency: "Cork South-West", party: "Sinn Fein", age: 26}),	
+(candidate109:Candidate {Name: "Michael McCarthy, gender: "Male", constituency: "Cork South-West", party: "Labour Party", age: 38}),	
+(candidate111:Candidate {Name: "Margaret Murphy O Mahony", gender: "Female", constituency: "Cork South-West", party: "Fianna Fail", age: 48}),
+(candidate112:Candidate {Name: "Fiona O'Leary", gender: "Female", constituency: "Cork South-West", party: "Independent", age: 44}),
+(candidate113:Candidate {Name: "Johnny O'Mahony	", gender: "Male", constituency: "Cork South-West", party: "Green Party", age: 58}),
+(candidate114:Candidate {Name: "Gillian Powell", gender: "Female", constituency: "Cork South-West", party: "Independent", age: 53 });
