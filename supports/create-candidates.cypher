@@ -669,7 +669,7 @@ CREATE
 (candidate451:Candidate {Name: "Peadar Toibin", gender: "Male", constituency: "Meath West", party: "Sinn Fein", age: 41});
 
 ===========================================
-Nodes for Meath West Candidates
+Nodes for Offaly Candidates
 ===========================================
 
 CREATE
@@ -703,6 +703,48 @@ CREATE
 (candidate473:Candidate {Name: "Eugene Murphy", gender: "Male", constituency: "Roscommon-Galway", party: "Fianna Fail", age: 56}),
 (candidate474:Candidate {Name: "Denis Naughten", gender: "Male", constituency: "Roscommon-Galway", party: "Independent", age: 42});
 
+===========================================
+Nodes for Sligo-Leitrim Candidates
+===========================================
+
+CREATE
+(candidate475:Candidate {Name: "Declan Bree", gender: "Male", constituency: "Sligo-Leitrim", party: "Independent", age: 64}),
+(candidate476:Candidate {Name: "Marie Casserly", gender: "Female", constituency: "Sligo-Leitrim", party: "Independent", age: 37}),
+(candidate477:Candidate {Name: "Finbarr Filan", gender: "Male", constituency: "Sligo-Leitrim", party: "Renua", age: 47}),
+(candidate478:Candidate {Name: "Nigel Gallagher", gender: "Male", constituency: "Sligo-Leitrim", party: "AAA-PBP", age: 29}),
+(candidate479:Candidate {Name: "Des	Guckian", gender: "Male", constituency: "Sligo-Leitrim", party: "Independent", age: 67}),
+(candidate480:Candidate {Name: "Martin Kenny", gender: "Male", constituency: "Sligo-Leitrim", party: "Sinn Fein", age: 46}),
+(candidate481:Candidate {Name: "Chris MacManus", gender: "Male", constituency: "Sligo-Leitrim", party: "Sinn Fein", age: 42}),
+(candidate482:Candidate {Name: "Marc MacSharry", gender: "Male", constituency: "Sligo-Leitrim", party: "Fianna Fail", age: 42}),
+(candidate483:Candidate {Name: "Tony McLoughlin", gender: "Male", constituency: "Sligo-Leitrim", party: "Fine Gael", age: 66}),
+(candidate484:Candidate {Name: "Eamon Murray", gender: "Male", constituency: "Sligo-Leitrim", party: "Independent", age: 66}),
+(candidate485:Candidate {Name: "Bernie O'Hara", gender: "Female", constituency: "Sligo-Leitrim", party: "Independent", age: 54}),
+(candidate486:Candidate {Name: "Leslie O'Hora", gender: "Male", constituency: "Sligo-Leitrim", party: "Green Party", age: 59}),
+(candidate487:Candidate {Name: "Susan O'Keefe", gender: "Female", constituency: "Sligo-Leitrim", party: "Labour Party", age: 55}),
+(candidate488:Candidate {Name: "Paddy O'Rourke", gender: "Male", constituency: "Sligo-Leitrim", party: "Fianna Fail", age: 67}),
+(candidate489:Candidate {Name: "John Perry", gender: "Male", constituency: "Sligo-Leitrim", party: "Fine Gael", age: 59}),
+(candidate490:Candidate {Name: "Gerry Reynolds", gender: "Male", constituency: "Sligo-Leitrim", party: "Fine Gael", age: 54}),
+(candidate491:Candidate {Name: "Eamon Scanlon", gender: "Male", constituency: "Sligo-Leitrim", party: "Fianna Fail", age: 61}),
+(candidate492:Candidate {Name: "Bernard Sweeney", gender: "Male", constituency: "Sligo-Leitrim", party: "Independent", age: 40});
+
+===========================================
+Nodes for Tipperary Candidates
+===========================================
+
+CREATE
+(candidate490:Candidate {Name: "Siobhan Ambrose", gender: "Female", constituency: "Tipperary", party: "Fianna Fail", age: 36}),
+(candidate491:Candidate {Name: "Jackie Cahill", gender: "Male", constituency: "Tipperary", party: "Fianna Fail", age: 53}),
+(candidate492:Candidate {Name: "Noel Coonan", gender: "Male", constituency: "Tipperary", party: "Fine Gael", age: 65}),
+(candidate493:Candidate {Name: "Michael Dillon", gender: "Male", constituency: "Tipperary", party: "Independent", age: 39}),
+(candidate494:Candidate {Name: "Gearoid Fitzgibbon", gender: "Male", constituency: "Tipperary", party: "Green Party", age: 40}),
+(candidate495:Candidate {Name: "Tom Hayes", gender: "Male", constituency: "Tipperary", party: "Fine Gael", age: 63}),
+(candidate496:Candidate {Name: "Seamus Healy", gender: "Male", constituency: "Tipperary", party: "Independent", age: 65}),
+(candidate497:Candidate {Name: "Alan Kelly", gender: "Male", constituency: "Tipperary", party: "Labour Party", age: 40}),
+(candidate498:Candidate {Name: "Michael Lowry", gender: "Male", constituency: "Tipperary", party: "Independent", age: 62}),
+(candidate499:Candidate {Name: "Mattie McGrath", gender: "Male", constituency: "Tipperary", party: "Independent", age: 57}),
+(candidate500:Candidate {Name: "Seamus Morris", gender: "Male", constituency: "Tipperary", party: "Sinn Fein", age: 51}),
+(candidate501:Candidate {Name: "Marie Murphy", gender: "Female", constituency: "Tipperary", party: "Fine Gael", age: 50}),
+(candidate502:Candidate {Name: "Michael Smith", gender: "Male", constituency: "Tipperary", party: "Fianna Fail", age: 24});
 
 
 
