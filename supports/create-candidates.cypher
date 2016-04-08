@@ -468,24 +468,43 @@ Nodes for Kerry Candidates
 ===========================================
 
 CREATE
-(candidate315:Candidate {Name: "John Brassil", gender: "Male", constituency: "Kerry", party: "Fianna Fail", age: 52}),
-(candidate316:Candidate {Name: "Donal Corcoran", gender: "Male", constituency: "Kerry", party: "Renua", age: 48}),
-(candidate317:Candidate {Name: "Jimmy Deenihan", gender: "Male", constituency: "Kerry", party: "Fine Gael", age: 63}),
-(candidate318:Candidate {Name: "Martin Ferris", gender: "Male", constituency: "Kerry", party: "Sinn Fein", age: 63}),
-(candidate319:Candidate {Name: "Brian Finucane", gender: "Male", constituency: "Kerry", party: "People Before Profit Alliance", age: 41}),
-(candidate320:Candidate {Name: "Michael Fitzgerald", gender: "Male", constituency: "Kerry", party: "Green Party", age: 55}),	
-(candidate321:Candidate {Name: "Mary Fitzgibbon", gender: "Female", constituency: "Kerry", party: "Independent", age: 46}),	
-(candidate322:Candidate {Name: "Henry Gaynor", gender: "Male", constituency: "Kerry", party: "Independent", age: 52}),
-(candidate323Candidate {Name: "Brendan Griffin", gender: "Male", constituency: "Kerry", party: "Fine Gael", age: 33}),
-(candidate324:Candidate {Name: "Michael Healy Rae", gender: "Male", constituency: "Kerry", party: "Independent", age: 48}),
-(candidate325:Candidate {Name: "Danny Healy-Rae", gender: "Male", constituency: "Kerry", party: "Independent", age: 53}),	
-(candidate326:Candidate {Name: "Norma Moriarty", gender: "Female", constituency: "Kerry", party: "Fianna Fail", age: 43}),	
-(candidate327:Candidate {Name: "Kevin Murphy", gender: "Male", constituency: "Kerry", party: "Independent", age: 34}),
-(candidate328:Candidate {Name: "Grace O Donnell", gender: "Female", constituency: "Kerry", party: "Fine Gael", age: 43}),
-(candidate329:Candidate {Name: "Michael O'Gorman", gender: "Male", constituency: "Kerry", party: "Independent", age: 41}),
-(candidate330:Candidate {Name: "Arthur Spring", gender: "Male", constituency: "Kerry", party: "Labour Party", age: 43});
+(candidate315:Candidate {Name: "Donal Corcoran", gender: "Male", constituency: "Kerry", party: "Renua", age: 48}),
+(candidate316:Candidate {Name: "Jimmy Deenihan", gender: "Male", constituency: "Kerry", party: "Fine Gael", age: 63}),
+(candidate317:Candidate {Name: "Martin Ferris", gender: "Male", constituency: "Kerry", party: "Sinn Fein", age: 63}),
+(candidate318:Candidate {Name: "Brian Finucane", gender: "Male", constituency: "Kerry", party: "People Before Profit Alliance", age: 41}),
+(candidate319:Candidate {Name: "Michael Fitzgerald", gender: "Male", constituency: "Kerry", party: "Green Party", age: 55}),	
+(candidate320:Candidate {Name: "Mary Fitzgibbon", gender: "Female", constituency: "Kerry", party: "Independent", age: 46}),	
+(candidate321:Candidate {Name: "Henry Gaynor", gender: "Male", constituency: "Kerry", party: "Independent", age: 52}),
+(candidate322:Candidate {Name: "Brendan Griffin", gender: "Male", constituency: "Kerry", party: "Fine Gael", age: 33}),
+(candidate323:Candidate {Name: "Michael Healy Rae", gender: "Male", constituency: "Kerry", party: "Independent", age: 48}),
+(candidate324:Candidate {Name: "Danny Healy-Rae", gender: "Male", constituency: "Kerry", party: "Independent", age: 53}),	
+(candidate325:Candidate {Name: "Norma Moriarty", gender: "Female", constituency: "Kerry", party: "Fianna Fail", age: 43}),	
+(candidate326:Candidate {Name: "Kevin Murphy", gender: "Male", constituency: "Kerry", party: "Independent", age: 34}),
+(candidate327:Candidate {Name: "Grace O Donnell", gender: "Female", constituency: "Kerry", party: "Fine Gael", age: 43}),
+(candidate328:Candidate {Name: "Michael O'Gorman", gender: "Male", constituency: "Kerry", party: "Independent", age: 41}),
+(candidate329:Candidate {Name: "Arthur Spring", gender: "Male", constituency: "Kerry", party: "Labour Party", age: 43}),
+(candidate330:Candidate {Name: "John Brassil", gender: "Male", constituency: "Kerry", party: "Fianna Fail", age: 52});
 
 
+===========================================
+Nodes for Kildare North Candidates
+===========================================
+
+CREATE
+(candidate331:Candidate {Name: "Michael Beirne", gender: "Male", constituency: "Kildare North", party: "Independent", age: 75}),
+(candidate332:Candidate {Name: "Riada Cronin", gender: "Female", constituency: "Kildare North", party: "Sinn Fein", age: 51}),
+(candidate333:Candidate {Name: "Gerard	Dunne", gender: "Male", constituency: "Kildare North", party: "Independent", age: 63}),
+(candidate334:Candidate {Name: "Bernard Durkan", gender: "Male", constituency: "Kildare North", party: "Fine Gael", age: 70}),
+(candidate335:Candidate {Name: "Shane Fitzgerald", gender: "Male", constituency: "Kildare North", party: "Renua", age: 42}),
+(candidate336:Candidate {Name: "James Lawless", gender: "Male", constituency: "Kildare North", party: "Fianna Fail", age: 39}),	
+(candidate337:Candidate {Name: "Anthony Lawlor", gender: "Male", constituency: "Kildare North", party: "Fine Gael", age: 56}),	
+(candidate338:Candidate {Name: "Ashling	Merriman", gender: "Female", constituency: "Kildare North", party: "People Before Profit Alliance", age: 46}),
+(candidate339:Candidate {Name: "Catherine Murphy", gender: "Female", constituency: "Kildare North", party: "Social Democrats", age: 62}),
+(candidate340:Candidate {Name: "Maebh Ni Fhalluin", gender: "Female", constituency: "Kildare North", party: "Green Party", age: 35}),
+(candidate341:Candidate {Name: "Frank O'Rourke", gender: "Male", constituency: "Kildare North", party: "Fianna Fail", age: 48}),	
+(candidate342:Candidate {Name: "Elizabeth O'Sullivan", gender: "Female", constituency: "Kildare North", party: "Independent", age: 40}),	
+(candidate343:Candidate {Name: "Emmett Stagg", gender: "Male", constituency: "Kildare North", party: "Labour Party", age: 71}),
+(candidate344:Candidate {Name: "Brendan	Young", gender: "Male", constituency: "Kildare North", party: "Independent", age: 56});
 
 
 
