@@ -421,3 +421,71 @@ CREATE
 (candidate284:Candidate {Name: "Raymond Whitehead", gender: "Male", constituency: "Dun Laoghaire", party: "Direct Democracy Ireland", age: 56});
 
 
+===========================================
+Nodes for Galway East Candidates
+===========================================
+
+CREATE
+(candidate285:Candidate {Name: "Sean Canney", gender: "Male", constituency: "Galway East", party: "Independent", age: 57}),
+(candidate286:Candidate {Name: "Ciaran Cannon", gender: "Male", constituency: "Galway East", party: "Fine Gael", age: 50}),
+(candidate287:Candidate {Name: "Paul Connaughton", gender: "Male", constituency: "Galway East", party: "Fine Gael", age: 33}),
+(candidate288:Candidate {Name: "Lorraine Higgins", gender: "Female", constituency: "Galway East", party: "Labour Party", age: 36}),
+(candidate289:Candidate {Name: "Colm Keaveney", gender: "Male", constituency: "Galway East", party: "Fianna Fail", age: 44}),
+(candidate290:Candidate {Name: "Aengus Melia", gender: "Male", constituency: "Galway East", party: "Direct Democracy Ireland", age: 37}),	
+(candidate291:Candidate {Name: "Mairead	Ni Chroinin", gender: "Male", constituency: "Galway East", party: "Green Party", age: 35}),	
+(candidate292:Candidate {Name: "Anne Rabbitte", gender: "Female", constituency: "Galway East", party: "Fianna Fail", age: 45}),
+(candidate293:Candidate {Name: "Annemarie Roche", gender: "Female", constituency: "Galway East", party: "Sinn Fein", age: 36}),
+(candidate294:Candidate {Name: "Michael	Fahy", gender: "Male", constituency: "Galway East", party: "Independent", age: 64});
+
+===========================================
+Nodes for Galway West Candidates
+===========================================
+
+CREATE
+(candidate295:Candidate {Name: "James Charity", gender: "Male", constituency: "Galway West", party: "Independent", age: 32}),
+(candidate296:Candidate {Name: "Catherine Connolly", gender: "Female", constituency: "Galway West", party: "Independent", age: 65}),
+(candidate297:Candidate {Name: "John Connolly", gender: "Male", constituency: "Galway West", party: "Fianna Fail", age: 36}),
+(candidate298:Candidate {Name: "Mike Cubbard", gender: "Male", constituency: "Galway West", party: "Independent", age: 30}),
+(candidate299:Candidate {Name: "Nicola Daveron", gender: "Female", constituency: "Galway West", party: "Renua", age: 38}),
+(candidate300:Candidate {Name: "Patrick Feeney", gender: "Male", constituency: "Galway West", party: "Independent", age: 69}),	
+(candidate301:Candidate {Name: "Noel Grealish", gender: "Male", constituency: "Galway West", party: "Independent", age: 50}),	
+(candidate302:Candidate {Name: "Fidelma Healy-Eames", gender: "Female", constituency: "Galway West", party: "Independent", age: 53}),
+(candidate303:Candidate {Name: "Mary Hoade", gender: "Female", constituency: "Galway West", party: "Fianna Fail", age: 44}),
+(candidate304:Candidate {Name: "Tommy Holohan", gender: "Male", constituency: "Galway West", party: "IAAA-PBP", age: 63}),
+(candidate305:Candidate {Name: "Sean Kyne", gender: "Male", constituency: "Galway West", party: "Fine Gael", age: 40}),	
+(candidate306:Candidate {Name: "Hildegarde Naughten", gender: "Female", constituency: "Galway West", party: "Fine Gael", age: 38}),	
+(candidate307:Candidate {Name: "Derek Nolan", gender: "Male", constituency: "Galway West", party: "Labour Party", age: 33}),
+(candidate308:Candidate {Name: "Trevor O Clochartaigh", gender: "Male", constituency: "Galway West", party: "Sinn Fein", age: 44}),
+(candidate309:Candidate {Name: "Eamon O'Cuiv", gender: "Male", constituency: "Galway West", party: "Fianna Fail", age: 63}),
+(candidate310:Candidate {Name: "John O Mahony", gender: "Male", constituency: "Galway West", party: "Fine Gael", age: 62}),	
+(candidate311:Candidate {Name: "Ruairi O'Neill", gender: "Male", constituency: "Galway West", party: "Direct Democracy Ireland", age: 57}),	
+(candidate312:Candidate {Name: "Niall O Tuathail", gender: "Male", constituency: "Galway West", party: "Social Democrats", age: 27}),
+(candidate313:Candidate {Name: "Tommy Roddy", gender: "Male", constituency: "Galway West", party: "Independent", age: 51}),
+(candidate314:Candidate {Name: "Seamus Sheridan", gender: "Male", constituency: "Galway West", party: "Green Party", age: 42});
+
+===========================================
+Nodes for Kerry Candidates
+===========================================
+
+CREATE
+(candidate315:Candidate {Name: "John Brassil", gender: "Male", constituency: "Kerry", party: "Fianna Fail", age: 52}),
+(candidate316:Candidate {Name: "Donal Corcoran", gender: "Male", constituency: "Kerry", party: "Renua", age: 48}),
+(candidate317:Candidate {Name: "Jimmy Deenihan", gender: "Male", constituency: "Kerry", party: "Fine Gael", age: 63}),
+(candidate318:Candidate {Name: "Martin Ferris", gender: "Male", constituency: "Kerry", party: "Sinn Fein", age: 63}),
+(candidate319:Candidate {Name: "Brian Finucane", gender: "Male", constituency: "Kerry", party: "People Before Profit Alliance", age: 41}),
+(candidate320:Candidate {Name: "Michael Fitzgerald", gender: "Male", constituency: "Kerry", party: "Green Party", age: 55}),	
+(candidate321:Candidate {Name: "Mary Fitzgibbon", gender: "Female", constituency: "Kerry", party: "Independent", age: 46}),	
+(candidate322:Candidate {Name: "Henry Gaynor", gender: "Male", constituency: "Kerry", party: "Independent", age: 52}),
+(candidate323Candidate {Name: "Brendan Griffin", gender: "Male", constituency: "Kerry", party: "Fine Gael", age: 33}),
+(candidate324:Candidate {Name: "Michael Healy Rae", gender: "Male", constituency: "Kerry", party: "Independent", age: 48}),
+(candidate325:Candidate {Name: "Danny Healy-Rae", gender: "Male", constituency: "Kerry", party: "Independent", age: 53}),	
+(candidate326:Candidate {Name: "Norma Moriarty", gender: "Female", constituency: "Kerry", party: "Fianna Fail", age: 43}),	
+(candidate327:Candidate {Name: "Kevin Murphy", gender: "Male", constituency: "Kerry", party: "Independent", age: 34}),
+(candidate328:Candidate {Name: "Grace O Donnell", gender: "Female", constituency: "Kerry", party: "Fine Gael", age: 43}),
+(candidate329:Candidate {Name: "Michael O'Gorman", gender: "Male", constituency: "Kerry", party: "Independent", age: 41}),
+(candidate330:Candidate {Name: "Arthur Spring", gender: "Male", constituency: "Kerry", party: "Labour Party", age: 43});
+
+
+
+
+
