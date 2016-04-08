@@ -668,6 +668,41 @@ CREATE
 (candidate450:Candidate {Name: "Seamus McMenamin", gender: "Male", constituency: "Meath West", party: "Green Party", age: 36}),
 (candidate451:Candidate {Name: "Peadar Toibin", gender: "Male", constituency: "Meath West", party: "Sinn Fein", age: 41});
 
+===========================================
+Nodes for Meath West Candidates
+===========================================
+
+CREATE
+(candidate452:Candidate {Name: "Kate Bopp", gender: "Female", constituency: "Offaly", party: "Independent", age: 50}),
+(candidate453:Candidate {Name: "Marcella Corcoran-Kennedy", gender: "Female", constituency: "Offaly", party: "Fine Gael", age: 53}),
+(candidate454:Candidate {Name: "Barry Cowen", gender: "Male", constituency: "Offaly", party: "Fianna Fail", age: 48}),
+(candidate455:Candidate {Name: "Christopher Fettes", gender: "Male", constituency: "Offaly", party: "Green Party", age: 78}),
+(candidate456:Candidate {Name: "Eddie Fitzpatrick", gender: "Male", constituency: "Offaly", party: "Fianna Fail", age: 36}),
+(candidate457:Candidate {Name: "John Foley", gender: "Male", constituency: "Offaly", party: "Independent", age: 65}),
+(candidate458:Candidate {Name: "Joe	Hannigan", gender: "Male", constituency: "Offaly", party: "Independent", age: 58}),
+(candidate459:Candidate {Name: "John Leahy", gender: "Male", constituency: "Offaly", party: "Renua", age: 37}),
+(candidate460:Candidate {Name: "Carol Nolan", gender: "Female", constituency: "Offaly", party: "Sinn Fein", age: 36}),
+(candidate461:Candidate {Name: "Teresa Ryan-Feehan", gender: "Female", constituency: "Offaly", party: "Independent", age: 43}),
+(candidate462:Candidate {Name: "Ken	Smollen", gender: "Male", constituency: "Offaly", party: "Irish Democratic Party", age: 55});
+
+===========================================
+Nodes for Roscommon-Galway Candidates
+===========================================
+
+CREATE
+(candidate463:Candidate {Name: "Tony Coleman", gender: "Male", constituency: "Roscommon-Galway", party: "Independent", age: 42}),
+(candidate464:Candidate {Name: "Eddie Conroy", gender: "Male", constituency: "Roscommon-Galway", party: "AAA-PBP", age: 39}),
+(candidate465:Candidate {Name: "Shane Curran", gender: "Male", constituency: "Roscommon-Galway", party: "Fianna Fail", age: 44}),
+(candidate466:Candidate {Name: "Thomas Declen Fallon", gender: "Male", constituency: "Roscommon-Galway", party: "Independent", age: 51}),
+(candidate467:Candidate {Name: "Anne Farrell", gender: "Female", constituency: "Roscommon-Galway", party: "Renua", age: 56}),
+(candidate468:Candidate {Name: "Michael Fitzmaurice", gender: "Male", constituency: "Roscommon-Galway", party: "Independent", age: 47}),
+(candidate469:Candidate {Name: "Miriam Hennesy", gender: "Female", constituency: "Roscommon-Galway", party: "Green Party", age: 47}),
+(candidate470:Candidate {Name: "Maura Hopkins", gender: "Female", constituency: "Roscommon-Galway", party: "Fine Gael", age: 31}),
+(candidate471:Candidate {Name: "John Kelly", gender: "Male", constituency: "Roscommon-Galway", party: "Labour Party", age: 55}),
+(candidate472:Candidate {Name: "Claire Kerrane", gender: "Female", constituency: "Roscommon-Galway", party: "Sinn Fein", age: 23}),
+(candidate473:Candidate {Name: "Eugene Murphy", gender: "Male", constituency: "Roscommon-Galway", party: "Fianna Fail", age: 56}),
+(candidate474:Candidate {Name: "Denis Naughten", gender: "Male", constituency: "Roscommon-Galway", party: "Independent", age: 42});
+
 
 
 
