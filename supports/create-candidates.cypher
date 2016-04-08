@@ -224,3 +224,44 @@ CREATE
 (candidate147:Candidate {Name: "Aodhan O Riordain", gender: "Male", constituency: "Dublin Bay North", party: "Labour Party", age: 39 }),
 (candidate148:Candidate {Name: "Averil Power", gender: "Female", constituency: "Dublin Bay North", party: "Independent", age: 36 }),
 (candidate149:Candidate {Name: "Stephanie Regan", gender: "Female", constituency: "Dublin Bay North", party: "Fine Gael", age: 57 });
+
+===========================================
+All nodes for Dublin Bay South Candidates
+===========================================
+
+CREATE
+(candidate150:Candidate {Name: "Chris Andrews", gender: "Male", constituency: "Dublin Bay South", party: "Sinn Fein", age: 51}),
+(candidate151:Candidate {Name: "Lucinda Creighton", gender: "Female", constituency: "Dublin Bay South", party: "Renua", age: 36}),
+(candidate152:Candidate {Name: "Mannix Flynn", gender: "Male", constituency: "Dublin Bay South", party: "Independent", age: 58}),
+(candidate153:Candidate {Name: "William Gorman", gender: "Male", constituency: "Dublin Bay South", party: "Independent", age: 55}),
+(candidate154:Candidate {Name: "Kevin Humphreys", gender: "Male", constituency: "Dublin Bay South", party: "Labour Party", age: 57}),
+(candidate155:Candidate {Name: "John DominicKeigher", gender: "Male", constituency: "Dublin Bay South", party: "Independent", age: 68}),	
+(candidate156:Candidate {Name: "Glenna Lynch", gender: "Female", constituency: "Dublin Bay South", party: "Social Democrats", age: 51}),	
+(candidate157:Candidate {Name: "Alan MacStiofain", gender: "Male", constituency: "Dublin Bay South", party: "Independent", age: 33}),
+(candidate158:Candidate {Name: "Annette Mooney", gender: "Female", constituency: "Dublin Bay South", party: "AAA-PBP", age: 48}),
+(candidate159:Candidate {Name: "Eoghan Murphy", gender: "Male", constituency: "Dublin Bay South", party: "Fine Geal", age: 33}),
+(candidate160:Candidate {Name: "JimO'Callaghan", gender: "Male", constituency: "Dublin Bay South", party: "Fianna Fail", age: 47}),
+(candidate161:Candidate {Name: "Kate O'Connell", gender: "Female", constituency: "Dublin Bay South", party: "Fine Gael", age: 36}),
+(candidate162:Candidate {Name: "Eamon Ryan", gender: "Male", constituency: "Dublin Bay South", party: "Green Party", age: 52}),
+(candidate163:Candidate {Name: "Eoin Tierney", gender: "Male", constituency: "Dublin Bay South", party: "Independent", age: 42});
+
+===========================================
+All nodes for Dublin Central Candidates
+===========================================
+
+CREATE
+(candidate164:Candidate {Name: "Christy Burke", gender: "Male", constituency: "Dublin Central", party: "Independent", age: 68}),
+(candidate165:Candidate {Name: "Joe Costello", gender: "Male", constituency: "Dublin Central", party: "Labour Party", age: 70}),
+(candidate166:Candidate {Name: "Paschal Donohoe", gender: "Male", constituency: "Dublin Central", party: "Fine Gael", age: 41}),
+(candidate167:Candidate {Name: "Mary Fitzpatrick", gender: "Female", constituency: "Dublin Central", party: "Fianna Fail", age: 46}),
+(candidate168:Candidate {Name: "Gary Gannon	", gender: "Male", constituency: "Dublin Central", party: "Social Democrats", age: 28}),
+(candidate169:Candidate {Name: "Jacqui Gilbourne", gender: "Male", constituency: "Dublin Central", party: "Renua", age: 65}),	
+(candidate170:Candidate {Name: "William Gorman", gender: "Male", constituency: "Dublin Central", party: "Independent", age: 56}),	
+(candidate171:Candidate {Name: "Kerry Guinan", gender: "Female", constituency: "Dublin Central", party: "Independent", age: 23}),
+(candidate172:Candidate {Name: "Mary Lou McDonald", gender: "Female", constituency: "Dublin Central", party: "Sinn Fein", age: 46}),
+(candidate173:Candidate {Name: "Cormac McKay", gender: "Male", constituency: "Dublin Central", party: "Independent", age: 35}),
+(candidate174:Candidate {Name: "Diana O'Dwyer", gender: "Female", constituency: "Dublin Central", party: "AAA-PBP", age: 37}),
+(candidate175:Candidate {Name: "Maureen O'Sullivan", gender: "Female", constituency: "Dublin Central", party: "Independent", age: 64}),
+(candidate176:Candidate {Name: "Cieran Perry", gender: "Male", constituency: "Dublin Central", party: "Independent", age: 53}),
+(candidate177:Candidate {Name: "Eilis Ryan", gender: "Female", constituency: "Dublin Central", party: "Workers' Party", age: 31}),
+(candidate178:Candidate {Name: "Ian Noel Smyth", gender: "Male", constituency: "Dublin Central", party: "Green Party", age: 38});
