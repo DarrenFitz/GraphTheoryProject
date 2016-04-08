@@ -535,5 +535,34 @@ CREATE
 (candidate359:Candidate {Name: "John Whelan", gender: "Male", constituency: "Laois", party: "Labour Party", age: 54});
 
 ===========================================
-Nodes for   Candidates
+Nodes for Limerick City Candidates
 ===========================================
+
+CREATE
+(candidate360:Candidate {Name: "Nora Bennis", gender: "Female", constituency: "Limerick City", party: "Catholic Democrats", age: 73}),
+(candidate361:Candidate {Name: "James Gaffney", gender: "Male", constituency: "Limerick City", party: "Green Party", age: 32}),
+(candidate362:Candidate {Name: "Desmond	Hayes", gender: "Male", constituency: "Limerick City", party: "Independent", age: 47}),
+(candidate363:Candidate {Name: "Sarah Jane Hennelly", gender: "Female", constituency: "Limerick City", party: "Social Democrats", age: 27}),
+(candidate364:Candidate {Name: "Michael Noonan", gender: "Male", constituency: "Limerick City", party: "Fine Gael", age: 72}),
+(candidate365:Candidate {Name: "Willie O'Dea", gender: "Male", constituency: "Limerick City", party: "Fianna Fail", age: 62}),
+(candidate366:Candidate {Name: "Kieran O'Donnell", gender: "Male", constituency: "Limerick City", party: "Fine Gael", age: 52}),
+(candidate367:Candidate {Name: "Jan O'Sullivan", gender: "Female", constituency: "Limerick City", party: "Labour Party", age: 64}),
+(candidate368:Candidate {Name: "Cian Prendiville", gender: "Male", constituency: "Limerick City", party: "AAA-PBP", age: 26}),
+(candidate369:Candidate {Name: "Maurice Quinlivan", gender: "Male", constituency: "Limerick City", party: "Sinn Fein", age: 48}),
+(candidate370:Candidate {Name: "Denis Riordan", gender: "Male", constituency: "Limerick City", party: "Independent", age: 66});
+
+===========================================
+Nodes for Limerick County Candidates
+===========================================
+
+CREATE
+(candidate371:Candidate {Name: "Seamus Browne", gender: "Male", constituency: "Limerick County", party: "Sinn Fein", age: 45}),
+(candidate372:Candidate {Name: "Niall Collins", gender: "Male", constituency: "Limerick County", party: "Fianna Fail", age: 42}),
+(candidate373:Candidate {Name: "Alexander Cosgrave", gender: "Male", constituency: "Limerick County", party: "Green Party", age: 21}),
+(candidate374:Candidate {Name: "James Heffernan", gender: "Male", constituency: "Limerick County", party: "Social Democrats", age: 36}),
+(candidate375:Candidate {Name: "Mark Keogh", gender: "Male", constituency: "Limerick County", party: "Direct Democracy Ireland", age: 42}),
+(candidate376:Candidate {Name: "Tom	Neville", gender: "Male", constituency: "Limerick County", party: "Fine Gael", age: 43}),
+(candidate377:Candidate {Name: "Emmett O'Brien", gender: "Male", constituency: "Limerick County", party: "Independent", age: 36}),
+(candidate378:Candidate {Name: "Richard O'Donoghue", gender: "Male", constituency: "Limerick County", party: "Independent", age: 47}),
+(candidate379:Candidate {Name: "Patrick	O'Donovan", gender: "Male", constituency: "Limerick County", party: "Fine Gael", age: 38}),
+(candidate380:Candidate {Name: "John O'Gorman", gender: "Male", constituency: "Limerick County", party: "Independent", age: 67});
