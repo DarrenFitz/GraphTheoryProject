@@ -265,3 +265,24 @@ CREATE
 (candidate176:Candidate {Name: "Cieran Perry", gender: "Male", constituency: "Dublin Central", party: "Independent", age: 53}),
 (candidate177:Candidate {Name: "Eilis Ryan", gender: "Female", constituency: "Dublin Central", party: "Workers' Party", age: 31}),
 (candidate178:Candidate {Name: "Ian Noel Smyth", gender: "Male", constituency: "Dublin Central", party: "Green Party", age: 38});
+
+===========================================
+All nodes for Dublin Fingal Candidates
+===========================================
+
+CREATE
+(candidate179:Candidate {Name: "Lorraine Clifford Lee", gender: "Female", constituency: "Dublin Fingal", party: "Fianna Fail", age: 42}),
+(candidate180:Candidate {Name: "Clare Daly", gender: "Female", constituency: "Dublin Fingal", party: "Independents 4 Change", age: 47}),
+(candidate181:Candidate {Name: "Marcus De Brun", gender: "Male", constituency: "Dublin Fingal", party: "Independent", age: 46}),
+(candidate182:Candidate {Name: "Alan Farrell", gender: "Male", constituency: "Dublin Fingal", party: "Fine Gael", age: 37}),
+(candidate183:Candidate {Name: "Roslyn Fuller", gender: "Female", constituency: "Dublin Fingal", party: "Independent", age: 35}),
+(candidate184:Candidate {Name: "Terry Kelleher", gender: "Male", constituency: "Dublin Fingal", party: "AAA-PBP", age: 48}),	
+(candidate185:Candidate {Name: "Barry Martin", gender: "Male", constituency: "Dublin Fingal", party: "Independents 4 Change", age: 27}),	
+(candidate186:Candidate {Name: "Gerry Molloy", gender: "Male", constituency: "Dublin Fingal", party: "Renua", age: 64}),
+(candidate187:Candidate {Name: "Tony Murphy ", gender: "Male", constituency: "Dublin Fingal", party: "Independent", age: 54}),
+(candidate188:Candidate {Name: "Joe O'Brien", gender: "Male", constituency: "Dublin Fingal", party: "Green Party", age: 38}),
+(candidate189:Candidate {Name: "Darragh O'Brien", gender: "Male", constituency: "Dublin Fingal", party: "Fianna Fail", age: 41}),
+(candidate190:Candidate {Name: "Fergal O'Connell", gender: "Male", constituency: "Dublin Fingal", party: "Independent", age: 54}),
+(candidate191:Candidate {Name: "Louise O'Reilly", gender: "Female", constituency: "Dublin Fingal", party: "Sinn Fein", age: 42}),
+(candidate192:Candidate {Name: "James Reilly", gender: "Male", constituency: "Dublin Fingal", party: "Fine Gael", age: 60}),
+(candidate193:Candidate {Name: "Brendan	Ryan", gender: "Male", constituency: "Dublin Fingal", party: "Labour Party", age: 64});
