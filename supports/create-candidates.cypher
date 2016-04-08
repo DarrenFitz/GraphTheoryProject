@@ -167,12 +167,34 @@ All nodes for Cork South-West Candidates
 CREATE
 (candidate103:Candidate {Name: "Alan Coleman", gender: "Male", constituency: "Cork South-West", party: "Independent", age: 58}),
 (candidate104:Candidate {Name: "Michael Collins", gender: "Male", constituency: "Cork South-West", party: "Independent", age: 57}),
-(candidate105:Candidate {Name: "Jim	Daly", gender: "Male", constituency: "Cork South-West", party: "Fine Gael", age: 42}),
+(candidate105:Candidate {Name: "Jim Daly", gender: "Male", constituency: "Cork South-West", party: "Fine Gael", age: 42}),
 (candidate106:Candidate {Name: "Noel Harrington", gender: "Male", constituency: "Cork South-West", party: "Fine Gael", age: 44}),
 (candidate107:Candidate {Name: "Theresa Heaney", gender: "Female", constituency: "Cork South-West", party: "Catholic Democrats", age: 52}),
 (candidate108:Candidate {Name: "Rachel McCarthy	", gender: "Female", constituency: "Cork South-West", party: "Sinn Fein", age: 26}),	
 (candidate109:Candidate {Name: "Michael McCarthy, gender: "Male", constituency: "Cork South-West", party: "Labour Party", age: 38}),	
-(candidate111:Candidate {Name: "Margaret Murphy O Mahony", gender: "Female", constituency: "Cork South-West", party: "Fianna Fail", age: 48}),
-(candidate112:Candidate {Name: "Fiona O'Leary", gender: "Female", constituency: "Cork South-West", party: "Independent", age: 44}),
-(candidate113:Candidate {Name: "Johnny O'Mahony	", gender: "Male", constituency: "Cork South-West", party: "Green Party", age: 58}),
-(candidate114:Candidate {Name: "Gillian Powell", gender: "Female", constituency: "Cork South-West", party: "Independent", age: 53 });
+(candidate110:Candidate {Name: "Margaret Murphy O Mahony", gender: "Female", constituency: "Cork South-West", party: "Fianna Fail", age: 48}),
+(candidate111:Candidate {Name: "Fiona O'Leary", gender: "Female", constituency: "Cork South-West", party: "Independent", age: 44}),
+(candidate112:Candidate {Name: "Johnny O'Mahony	", gender: "Male", constituency: "Cork South-West", party: "Green Party", age: 58}),
+(candidate113:Candidate {Name: "Gillian Powell", gender: "Female", constituency: "Cork South-West", party: "Independent", age: 53 });
+
+===========================================
+All nodes for Donegal Candidates
+===========================================
+
+CREATE
+(candidate114:Candidate {Name: "Pearse Doherty", gender: "Male", constituency: "Donegal", party: "Sinn Fein", age: 58}),
+(candidate115:Candidate {Name: "Gary Doherty", gender: "Male", constituency: "Donegal", party: "Sinn Fein", age: 57}),
+(candidate116:Candidate {Name: "Paula Flanagan", gender: "Female", constituency: "Donegal", party: "Green Party", age: 42}),
+(candidate117:Candidate {Name: "Pat	Gallagher", gender: "Male", constituency: "Donegal", party: "Fianna Fail", age: 44}),
+(candidate118:Candidate {Name: "Paddy Harte", gender: "Male", constituency: "Donegal", party: "Fine Gael", age: 52}),
+(candidate119:Candidate {Name: "Tim	Jackson	", gender: "Male", constituency: "Donegal", party: "Independent", age: 26}),	
+(candidate120:Candidate {Name: "Niamh Kennedy", gender: "Female", constituency: "Donegal", party: "Independent", age: 38}),	
+(candidate121:Candidate {Name: "Padraig	MacLochlainn", gender: "Male", constituency: "Donegal", party: "Sinn Fein", age: 48}),
+(candidate122:Candidate {Name: "Frank McBrearty", gender: "Male", constituency: "Donegal", party: "Independent", age: 44}),
+(candidate123:Candidate {Name: "Charlie	McConalogue", gender: "Male", constituency: "Donegal", party: "Fianna Fail", age: 58}),
+(candidate124:Candidate {Name: "Ian	McGarvey", gender: "Male", constituency: "Donegal", party: "Independent", age: 48}),
+(candidate125:Candidate {Name: "Joe	McHugh", gender: "Male", constituency: "Donegal", party: "Fine Gael", age: 44}),
+(candidate126:Candidate {Name: "Michael Mooney", gender: "Male", constituency: "Donegal", party: "Independent", age: 58}),
+(candidate127:Candidate {Name: "Cordelia NicMale Fhearraigh", gender: "Female", constituency: "Donegal", party: "Fis Nua", age: 44}),
+(candidate128:Candidate {Name: "Thomas Pringle", gender: "Male", constituency: "Donegal", party: "Independent", age: 58}),
+(candidate129:Candidate {Name: "Dessie Shiels", gender: "Male", constituency: "Donegal", party: "Independent", age: 53 });
