@@ -618,7 +618,7 @@ Nodes for Mayo Candidates
 ===========================================
 
 CREATE
-(candidate415:Candidate {Name: "Dara Calleary", gender: "Male", constituency: "Mayo", party: "SFianna Fail", age: 42}),
+(candidate415:Candidate {Name: "Dara Calleary", gender: "Male", constituency: "Mayo", party: "SFianna Fail", age: 42}),   ££££££££££££££££££££££££££££££££
 (candidate416:Candidate {Name: "Lisa Chambers", gender: "Female", constituency: "Mayo", party: "Fianna Fail", age: 28}),
 (candidate417:Candidate {Name: "Rose Conway-Walsh", gender: "Female", constituency: "Mayo", party: "Sinn Fein", age: 39}),
 (candidate418:Candidate {Name: "Jerry Cowley", gender: "Male", constituency: "Mayo", party: "Independent", age: 63}),
@@ -635,6 +635,38 @@ CREATE
 (candidate429:Candidate {Name: "Margaret Sheehan", gender: "Female", constituency: "Mayo", party: "Green Party", age: 50}),
 (candidate430:Candidate {Name: "Kamal Uddin	", gender: "Male", constituency: "Mayo", party: "Independent", age: 49});
 
+===========================================
+Nodes for Meath East Candidates
+===========================================
+
+CREATE
+(candidate431:Candidate {Name: "Joe Bonner", gender: "Male", constituency: "Meath East", party: "Independent", age: 62}),
+(candidate432:Candidate {Name: "Thomas Byrne", gender: "Male", constituency: "Meath East", party: "Fianna Fail", age: 38}),
+(candidate433:Candidate {Name: "Regina Doherty", gender: "Female", constituency: "Meath East", party: "Fine Gael", age: 45}),
+(candidate434:Candidate {Name: "Ben Gilroy", gender: "Male", constituency: "Meath East", party: "Direct Democracy Ireland", age: 52}),
+(candidate435:Candidate {Name: "Dominic Hannigan", gender: "Male", constituency: "Meath East", party: "Labour Party", age: 50}),
+(candidate436:Candidate {Name: "Sharon Keogan", gender: "Female", constituency: "Meath East", party: "Independent", age: 45}),
+(candidate437:Candidate {Name: "Seamus McDonagh", gender: "Male", constituency: "Meath East", party: "Workers' Party", age: 64}),
+(candidate438:Candidate {Name: "Helen McEntee", gender: "Female", constituency: "Meath East", party: "Fine Gael", age: 29}),
+(candidate439:Candidate {Name: "Sean O Buachalla", gender: "Male", constituency: "Meath East", party: "Green Party", age: 34}),
+(candidate440:Candidate {Name: "Aisling O'Neill", gender: "Female", constituency: "Meath East", party: "Social Democrats", age: 42}),
+(candidate441:Candidate {Name: "Darren O'Rourke", gender: "Female", constituency: "Meath East", party: "Sinn Fein", age: 35}),
+(candidate442:Candidate {Name: "Sarah Tyrrell", gender: "Male", constituency: "Meath East", party: "Renua", age: 25});
+
+===========================================
+Nodes for Meath West Candidates
+===========================================
+
+CREATE
+(candidate443:Candidate {Name: "Ray Butler", gender: "Male", constituency: "Meath West", party: "Fine Gael", age: 49}),
+(candidate444:Candidate {Name: "Shane Cassells", gender: "Male", constituency: "Meath West", party: "Fianna Fail", age: 37}),
+(candidate445:Candidate {Name: "Damien English", gender: "Male", constituency: "Meath West", party: "Fine Gael", age: 37}),
+(candidate446:Candidate {Name: "Trevor Golden", gender: "Male", constituency: "Meath West", party: "Independent", age: 41}),
+(candidate447:Candidate {Name: "Alan Lawes", gender: "Male", constituency: "Meath West", party: "Direct Democracy Ireland", age: 55}),
+(candidate448:Candidate {Name: "John Malone", gender: "Male", constituency: "Meath West", party: "Independent", age: 74}),
+(candidate449:Candidate {Name: "Tracy McElhinney", gender: "Female", constituency: "Meath West", party: "Labour Party", age: 43}),
+(candidate450:Candidate {Name: "Seamus McMenamin", gender: "Male", constituency: "Meath West", party: "Green Party", age: 36}),
+(candidate451:Candidate {Name: "Peadar Toibin", gender: "Male", constituency: "Meath West", party: "Sinn Fein", age: 41});
 
 
 
