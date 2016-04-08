@@ -385,3 +385,39 @@ CREATE
 (candidate269:Candidate {Name: "Joan Summerville-Malloy", gender: "Female", constituency: "Dublin South-West", party: "Independent", age: 36}),
 (candidate261:Candidate {Name: "Karen Warren", gender: "Female", constituency: "Dublin South-West", party: "Fine Gael", age: 50}),
 (candidate262:Candidate {Name: "Katherine Zappon", gender: "Female", constituency: "Dublin South-West", party: "Independent", age: 61});
+
+===========================================
+Nodes for Dublin West Candidates
+===========================================
+
+CREATE
+(candidate263:Candidate {Name: "Joan Burton", gender: "Female", constituency: "Dublin West", party: "Labour Party", age: 66}),
+(candidate264:Candidate {Name: "Dermot Casey", gender: "Male", constituency: "Dublin West", party: "Independent", age: 43}),
+(candidate265:Candidate {Name: "Jack Chambers", gender: "Male", constituency: "Dublin West", party: "Fianna Fail", age: 25}),
+(candidate266:Candidate {Name: "TJ Clare", gender: "Male", constituency: "Dublin West", party: "Independent", age: 25}),
+(candidate267:Candidate {Name: "Ruth Coppinger", gender: "Female", constituency: "Dublin West", party: "AAA-PBP", age: 42}),
+(candidate268:Candidate {Name: "Paul Donnelly", gender: "Male", constituency: "Dublin West", party: "Sinn Fein", age: 47}),	
+(candidate269:Candidate {Name: "David McGuinness", gender: "Male", constituency: "Dublin West", party: "Independent", age: 29}),	
+(candidate270:Candidate {Name: "Catherine Noone", gender: "Female", constituency: "Dublin West", party: "Fine Gael", age: 39}),
+(candidate271:Candidate {Name: "Jo O'Brien", gender: "Female", constituency: "Dublin West", party: "Renua", age: 53}),
+(candidate272:Candidate {Name: "Roderic O'Gorman", gender: "Male", constituency: "Dublin West", party: "Green Party", age: 34}),
+(candidate273:Candidate {Name: "Leo	Varadkar", gender: "Male", constituency: "Dublin West", party: "Fine Gael", age: 36});
+
+===========================================
+Nodes for Dun Laoghaire Candidates
+===========================================
+
+CREATE
+(candidate274:Candidate {Name: "Maria Bailey", gender: "Female", constituency: "Dun Laoghaire", party: "Fine Gael", age: 39}),
+(candidate275:Candidate {Name: "Richard Boyd-Barrety", gender: "Male", constituency: "Dun Laoghaire", party: "AAA-PBP", age: 47}),
+(candidate276:Candidate {Name: "Frank Cronin", gender: "Male", constituency: "Dun Laoghaire", party: "Renua", age: 53}),
+(candidate277:Candidate {Name: "Cormac Devlin", gender: "Male", constituency: "Dun Laoghaire", party: "Fianna Fail", age: 35}),
+(candidate278:Candidate {Name: "Mary Hanafin", gender: "Female", constituency: "Dun Laoghaire", party: "Fianna Fail", age: 56}),
+(candidate279:Candidate {Name: "Carol Hunt", gender: "Female", constituency: "Dun Laoghaire", party: "Independent", age: 49}),	
+(candidate280:Candidate {Name: "Mary Mitchell O Connor", gender: "Female", constituency: "Dun Laoghaire", party: "Fine Gael", age: 56}),	
+(candidate281:Candidate {Name: "Shane O'Brien", gender: "Male", constituency: "Dun Laoghaire", party: "Sinn Fein", age: 35}),
+(candidate282:Candidate {Name: "Carrie Smyth", gender: "Female", constituency: "Dun Laoghaire", party: "Labour Party", age: 43}),
+(candidate283:Candidate {Name: "Ossian Smyth", gender: "Male", constituency: "Dun Laoghaire", party: "Green Party", age: 44}),
+(candidate284:Candidate {Name: "Raymond Whitehead", gender: "Male", constituency: "Dun Laoghaire", party: "Direct Democracy Ireland", age: 56});
+
+
