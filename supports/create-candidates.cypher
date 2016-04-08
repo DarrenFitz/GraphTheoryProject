@@ -522,3 +522,18 @@ CREATE
 (candidate352:Candidate {Name: "Patricia Ryan", gender: "Female", constituency: "Kildare South", party: "Sinn Fein", age: 52}),
 (candidate353:Candidate {Name: "Mark Wall", gender: "Male", constituency: "Kildare South", party: "Labour Party", age: 45});
 
+===========================================
+Nodes for Laois Candidates
+===========================================
+
+CREATE
+(candidate354:Candidate {Name: "Thomasina Connell", gender: "Female", constituency: "Laois", party: "Fine Gael", age: 33}),
+(candidate355:Candidate {Name: "Charlie	Flanagan", gender: "Male", constituency: "Laois", party: "Fine Gael", age: 59}),
+(candidate356:Candidate {Name: "Sean Fleming", gender: "Male", constituency: "Laois", party: "Fianna Fail", age: 57}),
+(candidate357:Candidate {Name: "Sinead Moore", gender: "Female", constituency: "Laois", party: "Green Party", age: 40}),
+(candidate358:Candidate {Name: "Brian Stanley", gender: "Male", constituency: "Laois", party: "Sinn Fein", age: 54}),	
+(candidate359:Candidate {Name: "John Whelan", gender: "Male", constituency: "Laois", party: "Labour Party", age: 54});
+
+===========================================
+Nodes for   Candidates
+===========================================
