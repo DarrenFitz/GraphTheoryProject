@@ -358,3 +358,30 @@ CREATE
 (candidate239:Candidate {Name: "Oisin O hAlmhain", gender: "Male", constituency: "Dublin South-Central", party: "Green Party", age: 43}),
 (candidate240:Candidate {Name: "Aengus O Snodaigh", gender: "Male", constituency: "Dublin South-Central", party: "Sinn Fein", age: 51}),
 (candidate241:Candidate {Name: "Brid Smith", gender: "Female", constituency: "Dublin South-Central", party: "AAA-PBP", age: 57});
+
+===========================================
+Nodes for Dublin South-West Candidates
+===========================================
+
+CREATE
+(candidate242:Candidate {Name: "Colm Brophy", gender: "Male", constituency: "Dublin South-West", party: "Fine Gael", age: 49}),
+(candidate243:Candidate {Name: "Declan Burke", gender: "Male", constituency: "Dublin South-West", party: "Independent", age: 22}),
+(candidate244:Candidate {Name: "Sean Crowe", gender: "Male", constituency: "Dublin South-West", party: "Sinn Fein", age: 58}),
+(candidate245:Candidate {Name: "Anne-Marie Dermody", gender: "Female", constituency: "Dublin South-West", party: "Fine Gael", age: 46}),
+(candidate246:Candidate {Name: "Mick Duff", gender: "Male", constituency: "Dublin South-West", party: "Labour Party", age: 65}),
+(candidate247:Candidate {Name: "Francis Noel Duffy", gender: "Male", constituency: "Dublin South-West", party: "Green Party", age: 44}),	
+(candidate248:Candidate {Name: "Sandra Fay", gender: "Female", constituency: "Dublin South-West", party: "AAA-PBP", age: 36}),	
+(candidate249:Candidate {Name: "Peter Fitzpatrick", gender: "Male", constituency: "Dublin South-West", party: "Independent", age: 35}),
+(candidate250:Candidate {Name: "Sarah Holland", gender: "Female", constituency: "Dublin South-West", party: "Sinn Fein", age: 37}),
+(candidate251:Candidate {Name: "Pamela Kearns", gender: "Female", constituency: "Dublin South-West", party: "Labour Party", age: 56}),
+(candidate252:Candidate {Name: "John Lahart", gender: "Male", constituency: "Dublin South-West", party: "Social Democrats", age: 51}),	
+(candidate253:Candidate {Name: "Eamonn Maloney", gender: "Male", constituency: "Dublin South-West", party: "Independent", age: 62}),	
+(candidate254:Candidate {Name: "Ronan McMahon", gender: "Male", constituency: "Dublin South-West", party: "Renua", age: 49}),
+(candidate255:Candidate {Name: "Paul Murphy", gender: "Male", constituency: "Dublin South-West", party: "AAA-PBP", age: 32}),
+(candidate256:Candidate {Name: "Deirdre O'Donovan", gender: "Female", constituency: "Dublin South-West", party: "Independent", age: 43}),
+(candidate257:Candidate {Name: "Frank O'Gorman", gender: "Male", constituency: "Dublin South-West", party: "Independent", age: 53}),	
+(candidate258:Candidate {Name: "Kieran Adam Quigley", gender: "Male", constituency: "Dublin South-West", party: "Independent", age: 38}),	
+(candidate259:Candidate {Name: "Stephen Sinclair", gender: "Male", constituency: "Dublin South-West", party: "Direct Democracy Ireland", age: 55}),
+(candidate269:Candidate {Name: "Joan Summerville-Malloy", gender: "Female", constituency: "Dublin South-West", party: "Independent", age: 36}),
+(candidate261:Candidate {Name: "Karen Warren", gender: "Female", constituency: "Dublin South-West", party: "Fine Gael", age: 50}),
+(candidate262:Candidate {Name: "Katherine Zappon", gender: "Female", constituency: "Dublin South-West", party: "Independent", age: 61});
