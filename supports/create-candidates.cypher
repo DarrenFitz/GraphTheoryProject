@@ -286,3 +286,56 @@ CREATE
 (candidate191:Candidate {Name: "Louise O'Reilly", gender: "Female", constituency: "Dublin Fingal", party: "Sinn Fein", age: 42}),
 (candidate192:Candidate {Name: "James Reilly", gender: "Male", constituency: "Dublin Fingal", party: "Fine Gael", age: 60}),
 (candidate193:Candidate {Name: "Brendan	Ryan", gender: "Male", constituency: "Dublin Fingal", party: "Labour Party", age: 64});
+
+===========================================
+All nodes for Dublin Mid-West Candidates
+===========================================
+
+CREATE
+(candidate194:Candidate {Name: "Patrick Akpoveta", gender: "Male", constituency: "Dublin Mid-West", party: "Independent", age: 53}),
+(candidate195:Candidate {Name: "John Curran", gender: "Male", constituency: "Dublin Mid-West", party: "Fianna Fail", age: 55}),
+(candidate196:Candidate {Name: "Frances Fitzgerald", gender: "Female", constituency: "Dublin Mid-West", party: "Fine Gael", age: 65}),
+(candidate197:Candidate {Name: "Paul Gogarty", gender: "Male", constituency: "Dublin Mid-West", party: "Independent", age: 47}),
+(candidate198:Candidate {Name: "Christopher Healy", gender: "Male", constituency: "Dublin Mid-West", party: "Direct Democracy", age: 53}),
+(candidate199:Candidate {Name: "Lorraine Hennessy", gender: "Female", constituency: "Dublin Mid-West", party: "Workers' Party", age: 49}),	
+(candidate200:Candidate {Name: "Derek Keating", gender: "Male", constituency: "Dublin Mid-West", party: "Fine Gael", age: 60}),	
+(candidate201:Candidate {Name: "Gino Kenny", gender: "Male", constituency: "Dublin Mid-West", party: "AAA-PBP", age: 42}),
+(candidate202:Candidate {Name: "Haroon Khan", gender: "Male", constituency: "Dublin Mid-West", party: "Independent", age: 56}),
+(candidate203:Candidate {Name: "Tom Kivlehan", gender: "Male", constituency: "Dublin Mid-West", party: "Green Party", age: 54}),
+(candidate204:Candidate {Name: "Clare Leonard", gender: "Male", constituency: "Dublin Mid-West", party: "Independent", age: 62}),
+(candidate205:Candidate {Name: "Anne-Marie McNally", gender: "Female", constituency: "Dublin Mid-West", party: "Social Democrats", age: 35}),
+(candidate206:Candidate {Name: "Eoin O Broin", gender: "Male", constituency: "Dublin Mid-West", party: "Sinn Fein", age: 44}),
+(candidate207:Candidate {Name: "Francis Timmons", gender: "Male", constituency: "Dublin Mid-West", party: "Independent", age: 44}),
+(candidate208:Candidate {Name: "Joanna 	Tuffy", gender: "Female", constituency: "Dublin Mid-West", party: "Labour Party", age: 50});
+
+===========================================
+All nodes for Dublin North-West Candidates
+===========================================
+
+CREATE
+(candidate209:Candidate {Name: "Cathleen Carney Boud", gender: "Female", constituency: "Dublin North-West", party: "Sinn Fein", age: 37}),
+(candidate210:Candidate {Name: "Caroline Conroy", gender: "Female", constituency: "Dublin North-West", party: "Green Party", age: 42}),
+(candidate211:Candidate {Name: "Jimmy Dignam", gender: "Male", constituency: "Dublin North-West", party: "Workers' Party", age: 28}),
+(candidate212:Candidate {Name: "Dessie Ellis", gender: "Male", constituency: "Dublin North-West", party: "Sinn Fein", age: 62}),
+(candidate213:Candidate {Name: "Bernie Hughes", gender: "Female", constituency: "Dublin North-West", party: "Independent", age: 60}),
+(candidate214:Candidate {Name: "Andrew Keegan", gender: "Male", constituency: "Dublin North-West", party: "AAA-PBP", age: 52}),	
+(candidate215:Candidate {Name: "John Lyons", gender: "Male", constituency: "Dublin North-West", party: "Labour Party", age: 38}),	
+(candidate216:Candidate {Name: "Cormac MacKay", gender: "Male", constituency: "Dublin North-West", party: "Direct Democracy Ireland", age: 35}),
+(candidate217:Candidate {Name: "Paul McAuliffe", gender: "Male", constituency: "Dublin North-West", party: "Fianna Fail", age: 35}),
+(candidate218:Candidate {Name: "Noel Rock", gender: "Male", constituency: "Dublin North-West", party: "Fine Gael", age: 28}),
+(candidate219:Candidate {Name: "Roisin Shortall", gender: "Female", constituency: "Dublin North-West", party: "Social Democrats", age: 61});
+
+===========================================
+Nodes for Dublin Rathdown Candidates
+===========================================
+
+CREATE
+(candidate220:Candidate {Name: "Alan Deveron", gender: "Male", constituency: "Dublin Rathdown", party: "Renua", age: 38}),
+(candidate221:Candidate {Name: "Josepha Madigan", gender: "Female", constituency: "Dublin Rathdown", party: "Fine Gael", age: 46}),
+(candidate222:Candidate {Name: "Catherine Martin", gender: "Female", constituency: "Dublin Rathdown", party: "Green Party", age: 43}),
+(candidate223:Candidate {Name: "Peter Matthews", gender: "Male", constituency: "Dublin Rathdown", party: "Independent", age: 64}),
+(candidate224:Candidate {Name: "Sorcha Nic Cormaic", gender: "Female", constituency: "Dublin Rathdown", party: "Sinn Fein", age: 42}),
+(candidate225:Candidate {Name: "Shane Ross", gender: "Male", constituency: "Dublin Rathdown", party: "Independent", age: 66}),	
+(candidate226:Candidate {Name: "Alan Shatter", gender: "Male", constituency: "Dublin Rathdown", party: "Fine Gael", age: 64}),	
+(candidate227:Candidate {Name: "Mary White", gender: "Female", constituency: "Dublin Rathdown", party: "Fianna Fail", age: 71}),
+(candidate228:Candidate {Name: "Alex White", gender: "Male", constituency: "Dublin Rathdown", party: "Labour Party", age: 56});
