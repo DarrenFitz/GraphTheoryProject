@@ -2,7 +2,7 @@
 
 
 CREATE
-(p1:Party {name: "Fine Geal", leader:"Enda Kenny"}),
+(p1:Party {name: "Fine Gael", leader:"Enda Kenny"}),
 (p2:Party {name: "Fianna Fail", leader:"Micheal Martin"}),
 (p3:Party {name: "Sinn Fein", leader:"Gerry Adams"}),
 (p4:Party {name: "Labour Party", leader:"Joan Burton"}),
