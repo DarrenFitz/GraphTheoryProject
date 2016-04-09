@@ -732,9 +732,6 @@ Nodes for Tipperary Candidates
 ===========================================
 
 CREATE
-(candidate490:Candidate {Name: "Siobhan Ambrose", gender: "Female", constituency: "Tipperary", party: "Fianna Fail", age: 36}),
-(candidate491:Candidate {Name: "Jackie Cahill", gender: "Male", constituency: "Tipperary", party: "Fianna Fail", age: 53}),
-(candidate492:Candidate {Name: "Noel Coonan", gender: "Male", constituency: "Tipperary", party: "Fine Gael", age: 65}),
 (candidate493:Candidate {Name: "Michael Dillon", gender: "Male", constituency: "Tipperary", party: "Independent", age: 39}),
 (candidate494:Candidate {Name: "Gearoid Fitzgibbon", gender: "Male", constituency: "Tipperary", party: "Green Party", age: 40}),
 (candidate495:Candidate {Name: "Tom Hayes", gender: "Male", constituency: "Tipperary", party: "Fine Gael", age: 63}),
@@ -744,8 +741,71 @@ CREATE
 (candidate499:Candidate {Name: "Mattie McGrath", gender: "Male", constituency: "Tipperary", party: "Independent", age: 57}),
 (candidate500:Candidate {Name: "Seamus Morris", gender: "Male", constituency: "Tipperary", party: "Sinn Fein", age: 51}),
 (candidate501:Candidate {Name: "Marie Murphy", gender: "Female", constituency: "Tipperary", party: "Fine Gael", age: 50}),
-(candidate502:Candidate {Name: "Michael Smith", gender: "Male", constituency: "Tipperary", party: "Fianna Fail", age: 24});
+(candidate502:Candidate {Name: "Michael Smith", gender: "Male", constituency: "Tipperary", party: "Fianna Fail", age: 24}),
+(candidate503:Candidate {Name: "Siobhan Ambrose", gender: "Female", constituency: "Tipperary", party: "Fianna Fail", age: 36}),
+(candidate504:Candidate {Name: "Jackie Cahill", gender: "Male", constituency: "Tipperary", party: "Fianna Fail", age: 53}),
+(candidate505:Candidate {Name: "Noel Coonan", gender: "Male", constituency: "Tipperary", party: "Fine Gael", age: 65});
 
+===========================================
+Nodes for Waterford Candidates
+===========================================
 
+CREATE
+(candidate506:Candidate {Name: "Sheikh Mohiuddin Ahmed", gender: "Male", constituency: "Waterford", party: "Independent", age: 55}),
+(candidate507:Candidate {Name: "Mary Butler", gender: "Female", constituency: "Waterford", party: "Fianna Fail", age: 52}),
+(candidate508:Candidate {Name: "Paudie Coffey", gender: "Male", constituency: "Waterford", party: "Fine Gael", age: 46}),
+(candidate509:Candidate {Name: "Ciara Conway", gender: "Female", constituency: "Waterford", party: "Labour Party", age: 35}),
+(candidate510:Candidate {Name: "David Cullinane", gender: "Male", constituency: "Waterford", party: "Sinn Fein", age: 41}),
+(candidate511:Candidate {Name: "John Deasy", gender: "Male", constituency: "Waterford", party: "Fine Gael", age: 48}),
+(candidate512:Candidate {Name: "Una Dunphy", gender: "Female", constituency: "Waterford", party: "AAA-PBP", age: 48}),
+(candidate513:Candidate {Name: "John Halligan", gender: "Male", constituency: "Waterford", party: "Independent", age: 63}),
+(candidate514:Candidate {Name: "Grace O'Sullivan", gender: "Female", constituency: "Waterford", party: "Green Party", age: 51}),
+(candidate515:Candidate {Name: "Mailo Power", gender: "Female", constituency: "Waterford", party: "Renua", age: 55}),
+(candidate516:Candidate {Name: "Edward Quilty", gender: "Male", constituency: "Waterford", party: "Direct Democracy Ireland", age: 61}),
+(candidate517:Candidate {Name: "John Walsh", gender: "Male", constituency: "Waterford", party: "Independent", age: 64});
 
+===========================================
+Nodes for Wexford Candidates
+===========================================
+
+CREATE
+(candidate518:Candidate {Name: "James Browne", gender: "Male", constituency: "Wexford", party: "Fianna Fail", age: 40}),
+(candidate519:Candidate {Name: "Malcolm Byrne", gender: "Male", constituency: "Wexford", party: "Fianna Fail", age: 41}),
+(candidate520:Candidate {Name: "Aoife Byrne", gender: "Female", constituency: "Wexford", party: "Fianna Fail", age: 37}),
+(candidate521:Candidate {Name: "Ger Carthy", gender: "Male", constituency: "Wexford", party: "Independent", age: 38}),
+(candidate522:Candidate {Name: "Michael D'Arcy", gender: "Male", constituency: "Wexford", party: "Fine Gael", age: 45}),
+(candidate523:Candidate {Name: "John Dwyer", gender: "Male", constituency: "Wexford", party: "Independent", age: 38}),
+(candidate524:Candidate {Name: "Caroline Foxe", gender: "Female", constituency: "Wexford", party: "Independent", age: 47}),
+(candidate525:Candidate {Name: "Julie Hogan", gender: "Female", constituency: "Wexford", party: "Fine Gael", age: 44}),
+(candidate526:Candidate {Name: "Brendan Howlin", gender: "Male", constituency: "Wexford", party: "Labour Party", age: 59}),
+(candidate527:Candidate {Name: "Paul Kehoe", gender: "Male", constituency: "Wexford", party: "Fine Gael", age: 43}),
+(candidate528:Candidate {Name: "Leonard Kelly", gender: "Male", constituency: "Wexford", party: "Social Democrats", age: 41}),
+(candidate529:Candidate {Name: "David Lloyd", gender: "Male", constituency: "Wexford", party: "Direct Democracy Ireland", age: 40}),
+(candidate530:Candidate {Name: "Emmet Moloney", gender: "Male", constituency: "Wexford", party: "Independent", age: 29}),
+(candidate531:Candidate {Name: "Johnny Mythen", gender: "Male", constituency: "Wexford", party: "Sinn Fein", age: 57}),
+(candidate532:Candidate {Name: "Deirdre	Wadding", gender: "Female", constituency: "Wexford", party: "AAA-PBP", age: 53}),
+(candidate533:Candidate {Name: "Mick Wallace", gender: "Male", constituency: "Wexford", party: "Independents 4 Change", age: 59}),
+(candidate534:Candidate {Name: "Ann	Walsh", gender: "Female", constituency: "Wexford", party: "Green Party", age: 42});
+
+===========================================
+Nodes for Wicklow Candidates
+===========================================
+
+CREATE
+(candidate535:Candidate {Name: "Joe Behan", gender: "Male", constituency: "Wicklow", party: "Independent", age: 56}),
+(candidate536:Candidate {Name: "John Brady", gender: "Male", constituency: "Wicklow", party: "Sinn Fein", age: 42}),
+(candidate537:Candidate {Name: "Sharon Briggs", gender: "Female", constituency: "Wicklow", party: "People Before Profit Alliance", age: 49}),
+(candidate538:Candidate {Name: "Pat Casey", gender: "Male", constituency: "Wicklow", party: "Fianna Fail", age: 53}),
+(candidate539:Candidate {Name: "Avril Cronin", gender: "Female", constituency: "Wicklow", party: "Fine Gael", age: 29}),
+(candidate540:Candidate {Name: "Jennifer Cuffe", gender: "Female", constituency: "Wicklow", party: "Fianna Fail", age: 29}),
+(candidate541:Candidate {Name: "Stephen Donnelly", gender: "Male", constituency: "Wicklow", party: "Social Democrats", age: 40}),
+(candidate542:Candidate {Name: "Andrew Doyle", gender: "Male", constituency: "Wicklow", party: "Fine Gael", age: 55}),
+(candidate543:Candidate {Name: "Anna Doyle", gender: "Female", constituency: "Wicklow", party: "AAA-PBP", age: 43}),
+(candidate544:Candidate {Name: "Anne Ferris", gender: "Female", constituency: "Wicklow", party: "Labour Party", age: 61}),
+(candidate545:Candidate {Name: "Simon Harris", gender: "Male", constituency: "Wicklow", party: "Fine Gael", age: 29}),
+(candidate546:Candidate {Name: "Katrina Hutchinson", gender: "Female", constituency: "Wicklow", party: "Direct Democracy Ireland", age: 34}),
+(candidate547:Candidate {Name: "Bob Kearns", gender: "Male", constituency: "Wicklow", party: "Independent", age: 74}),
+(candidate548:Candidate {Name: "Charlie Keddy", gender: "Male", constituency: "Wicklow", party: "Independent", age: 71}),
+(candidate549:Candidate {Name: "Steven Matthews", gender: "Male", constituency: "Wicklow", party: "Green Party", age: 43}),
+(candidate550:Candidate {Name: "Billy Timmins", gender: "Male", constituency: "Wicklow", party: "Renua", age: 56});
 
