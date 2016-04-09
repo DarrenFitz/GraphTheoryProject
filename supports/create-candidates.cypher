@@ -171,7 +171,7 @@ CREATE
 (candidate106:Candidate {Name: "Noel Harrington", gender: "Male", constituency: "Cork South-West", party: "Fine Gael", age: 44}),
 (candidate107:Candidate {Name: "Theresa Heaney", gender: "Female", constituency: "Cork South-West", party: "Catholic Democrats", age: 52}),
 (candidate108:Candidate {Name: "Rachel McCarthy	", gender: "Female", constituency: "Cork South-West", party: "Sinn Fein", age: 26}),	
-(candidate109:Candidate {Name: "Michael McCarthy, gender: "Male", constituency: "Cork South-West", party: "Labour Party", age: 38}),	
+(candidate109:Candidate {Name: "Michael McCarthy", gender: "Male", constituency: "Cork South-West", party: "Labour Party", age: 38}),	
 (candidate110:Candidate {Name: "Margaret Murphy O Mahony", gender: "Female", constituency: "Cork South-West", party: "Fianna Fail", age: 48}),
 (candidate111:Candidate {Name: "Fiona O'Leary", gender: "Female", constituency: "Cork South-West", party: "Independent", age: 44}),
 (candidate112:Candidate {Name: "Johnny O'Mahony	", gender: "Male", constituency: "Cork South-West", party: "Green Party", age: 58}),
@@ -382,7 +382,7 @@ CREATE
 (candidate257:Candidate {Name: "Frank O'Gorman", gender: "Male", constituency: "Dublin South-West", party: "Independent", age: 53}),	
 (candidate258:Candidate {Name: "Kieran Adam Quigley", gender: "Male", constituency: "Dublin South-West", party: "Independent", age: 38}),	
 (candidate259:Candidate {Name: "Stephen Sinclair", gender: "Male", constituency: "Dublin South-West", party: "Direct Democracy Ireland", age: 55}),
-(candidate269:Candidate {Name: "Joan Summerville-Malloy", gender: "Female", constituency: "Dublin South-West", party: "Independent", age: 36}),
+(candidate260:Candidate {Name: "Joan Summerville-Malloy", gender: "Female", constituency: "Dublin South-West", party: "Independent", age: 36}),
 (candidate261:Candidate {Name: "Karen Warren", gender: "Female", constituency: "Dublin South-West", party: "Fine Gael", age: 50}),
 (candidate262:Candidate {Name: "Katherine Zappon", gender: "Female", constituency: "Dublin South-West", party: "Independent", age: 61});
 
@@ -618,7 +618,7 @@ Nodes for Mayo Candidates
 ===========================================
 
 CREATE
-(candidate415:Candidate {Name: "Dara Calleary", gender: "Male", constituency: "Mayo", party: "SFianna Fail", age: 42}),   ££££££££££££££££££££££££££££££££
+(candidate415:Candidate {Name: "Dara Calleary", gender: "Male", constituency: "Mayo", party: "Fianna Fail", age: 42}),
 (candidate416:Candidate {Name: "Lisa Chambers", gender: "Female", constituency: "Mayo", party: "Fianna Fail", age: 28}),
 (candidate417:Candidate {Name: "Rose Conway-Walsh", gender: "Female", constituency: "Mayo", party: "Sinn Fein", age: 39}),
 (candidate418:Candidate {Name: "Jerry Cowley", gender: "Male", constituency: "Mayo", party: "Independent", age: 63}),
