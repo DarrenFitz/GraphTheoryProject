@@ -148,7 +148,7 @@ CREATE
 (candidate89:Candidate {Name: "Jerry Buttimer", gender: "Male", constituency: "Cork South-Central", party: "Fine Gael", age: 48}),
 (candidate90:Candidate {Name: "Simon Coveney", gender: "Male", constituency: "Cork South-Central", party: "Fine Gael", age: 43}),
 (candidate91:Candidate {Name: "Mick Finn", gender: "Male", constituency: "Cork South-Central", party: "Independent", age: 45}),
-(candidate92:Candidate {Name: "Joe	Harris", gender: "Male", constituency: "Cork South-Central", party: "Independent", age: 58}),
+(candidate92:Candidate {Name: "Joe Harris", gender: "Male", constituency: "Cork South-Central", party: "Independent", age: 58}),
 (candidate93:Candidate {Name: "Elizabeth Hourihane", gender: "Female", constituency: "Cork South-Central", party: "Independent", age: 49}),	
 (candidate94:Candidate {Name: "Ciaran Kenneally", gender: "Male", constituency: "Cork South-Central", party: "Renua", age: 38}),	
 (candidate95:Candidate {Name: "Ciaran Lynch", gender: "Male", constituency: "Cork South-Central", party: "Labour Party", age: 51}),
@@ -156,7 +156,7 @@ CREATE
 (candidate97:Candidate {Name: "Michael	McGrath", gender: "Male", constituency: "Cork South-Central", party: "Fianna Fail", age: 39}),
 (candidate98:Candidate {Name: "Michael	Mohally", gender: "Male", constituency: "Cork South-Central", party: "Independent", age: 58}),
 (candidate99:Candidate {Name: "Diarmaid O Cadhla", gender: "Male", constituency: "Cork South-Central", party: "Independent", age: 55 }),
-(candidate100:Candidate {Name: "Jim	O'Connell", gender: "Male", constituency: "Cork South-Central", party: "AAA-PBP", age: 56 }),
+(candidate100:Candidate {Name: "Jim O'Connell", gender: "Male", constituency: "Cork South-Central", party: "AAA-PBP", age: 56 }),
 (candidate101:Candidate {Name: "Donnchadh O Laoghaire", gender: "Male", constituency: "Cork South-Central", party: "Sinn Fein", age: 26 }),
 (candidate102:Candidate {Name: "Fiona Ryan", gender: "Female", constituency: "Cork South-Central", party: "AAA-PBP", age: 26 });
 
