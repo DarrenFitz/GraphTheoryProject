@@ -15,10 +15,9 @@ Then 'MATCH','WHERE', and 'CREATE' for the reltionships.
 
 
 ## Queries
-*The First query show all the parties in relation to their candidates.
-*The Second shows ordere candidates based on age.
-*The Third diplays independant party with 4 seats constituencies. 
-Then explain them one by one in the following sections.
+* The First query show all the parties in relation to their candidates.
+* The Second shows ordere candidates based on age.
+* The Third Candidates starting with "d" and asociated party 
 
 #### Query one title
 This query displayes only the relationship between the parties and their candidates.
@@ -34,16 +33,16 @@ RETURN
 ```
 
 #### Query two title
-This query displays the candidate that are of the age 50 or above in an
+This query displays the candidates that are in a certin age range (eg.50-60) in an
 ascending order. 
-The value can be change depending on your preference
+The value can be change depending on your preference.
 The list can be ordered by name too by using "ORDER BY candidate1.Name ASC" instead.
 
 ```cypher
 MATCH 
     (candidate1:Candidate)
 WHERE 
-    candidate1.age >= 50
+    candidate1.age >= 50 AND candidate1.age <= 60
 RETURN 
     candidate1.Name, candidate1.age
 ORDER 
@@ -51,20 +50,20 @@ ORDER
 ```
 
 #### Query three title
-This query displays all the Independant candidates for the Constituencies with 4 seats.
-It sets a limit of 10 for constituencies.
+This query displays all of the candidates beginning with "d" grouped together by party. They are ordered ascendingly based on the count of candidates. Headings appropriately named. 
 
 ```cypher
-MATCH 
-    p1 =(:Candidate { party: "Independent" })-[:FROM]-(:Constituency { seats: 4 })
+MATCH
+	(candidate1:Candidate)
+WHERE 
+	candidate1.Name STARTS WITH "D"
 RETURN 
-    p1
-LIMIT 
-    10;
-
+	candidate1.party as Party, collect(candidate1.Name) as Candidate, count(*) as Count
+ORDER BY 
+	count(*) ASC
 ```
 
 ## References
-1. [Neo4J website](http://neo4j.com/), the website of the Neo4j database.
+1. [Neo4J website](http://neo4j.com/), the website of the Neo4j database, and useful query tips.
 2. The [Candidates](http://www.thejournal.ie/thejournal-ie-candidate-database-2537709-Feb2016/) in the 2016 Election.
 3. For [Constituencies](https://en.wikipedia.org/wiki/Parliamentary_constituencies_in_the_Republic_of_Ireland) information like population and seats.

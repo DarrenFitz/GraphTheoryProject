@@ -1690,3 +1690,23 @@ RETURN r;
 2016-04-10 03:35:52.571+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 1202ms.
 2016-04-10 04:35:53.853+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 916ms.
 2016-04-10 05:35:54.983+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 1035ms.
+2016-04-10 06:14:22.179+0000 INFO  [o.n.k.i.t.l.c.CheckPointerImpl] Check Pointing triggered by scheduler for time threshold [151]:  Starting check pointing...
+2016-04-10 06:14:22.195+0000 INFO  [o.n.k.i.t.l.c.CheckPointerImpl] Check Pointing triggered by scheduler for time threshold [151]:  Starting store flush...
+2016-04-10 06:14:22.195+0000 INFO  [o.n.k.i.s.c.CountsTracker] About to rotate counts store at transaction 151 to [C:\Users\Darren\Desktop\project-template-master\constituencies.graphdb\neostore.counts.db.b], from [C:\Users\Darren\Desktop\project-template-master\constituencies.graphdb\neostore.counts.db.a].
+2016-04-10 06:14:22.226+0000 INFO  [o.n.k.i.s.c.CountsTracker] Successfully rotated counts store at transaction 151 to [C:\Users\Darren\Desktop\project-template-master\constituencies.graphdb\neostore.counts.db.b], from [C:\Users\Darren\Desktop\project-template-master\constituencies.graphdb\neostore.counts.db.a].
+2016-04-10 06:14:22.447+0000 INFO  [o.n.k.i.t.l.c.CheckPointerImpl] Check Pointing triggered by scheduler for time threshold [151]:  Store flush completed
+2016-04-10 06:14:22.447+0000 INFO  [o.n.k.i.t.l.c.CheckPointerImpl] Check Pointing triggered by scheduler for time threshold [151]:  Starting appending check point entry into the tx log...
+2016-04-10 06:14:22.496+0000 INFO  [o.n.k.i.t.l.c.CheckPointerImpl] Check Pointing triggered by scheduler for time threshold [151]:  Appending check point entry into the tx log completed
+2016-04-10 06:14:22.511+0000 INFO  [o.n.k.i.t.l.c.CheckPointerImpl] Check Pointing triggered by scheduler for time threshold [151]:  Check pointing completed
+2016-04-10 06:14:22.511+0000 INFO  [o.n.k.i.t.l.p.LogPruningImpl] Log Rotation [0]:  Starting log pruning.
+2016-04-10 06:14:22.527+0000 INFO  [o.n.k.i.t.l.p.LogPruningImpl] Log Rotation [0]:  Log pruning complete.
+2016-04-10 06:35:56.090+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 1048ms.
+2016-04-10 06:50:19.732+0000 INFO  [o.n.c.i.ServerExecutionEngine] Discarded stale query from the query cache: CYPHER 2.3 MATCH 
+    (candidate1:Candidate)
+WHERE 
+    candidate1.age >= 50
+RETURN 
+    candidate1.Name, candidate1.age
+ORDER 
+    BY candidate1.age ASC
+2016-04-10 06:50:19.745+0000 INFO  [o.n.c.i.CypherCompiler] Discarded stale query from the query cache: Query(None,SingleQuery(List(Match(false,Pattern(List(EveryPath(NodePattern(Some(Identifier(candidate1)),List(),None,false)))),List(),Some(Where(And(HasLabels(Identifier(candidate1),List(LabelName(Candidate))),GreaterThanOrEqual(Property(Identifier(candidate1),PropertyKeyName(age)),Parameter(  AUTOINT0)))))), With(false,ReturnItems(false,Vector(AliasedReturnItem(Property(Identifier(candidate1),PropertyKeyName(Name)),Identifier(  FRESHID89)), AliasedReturnItem(Property(Identifier(candidate1),PropertyKeyName(age)),Identifier(  FRESHID106)))),Some(OrderBy(List(AscSortItem(Identifier(  FRESHID106))))),None,None,None), Return(false,ReturnItems(false,List(AliasedReturnItem(Identifier(  FRESHID89),Identifier(candidate1.Name)), AliasedReturnItem(Identifier(  FRESHID106),Identifier(candidate1.age)))),None,None,None))))
