@@ -69,4 +69,4 @@ ORDER BY
 1. [Neo4J website](http://neo4j.com/), the website of the Neo4j database, and useful query tips.
 2. The [Candidates](http://www.thejournal.ie/thejournal-ie-candidate-database-2537709-Feb2016/) in the 2016 Election.
 3. For [Constituencies](https://en.wikipedia.org/wiki/Parliamentary_constituencies_in_the_Republic_of_Ireland) information like population and seats.
-4. For [Party](www.rte.ie/news/election-2016/parties) candidates this site was useful.
+4. For [Party](http://www.rte.ie/news/election-2016/parties) candidates this site was useful.
