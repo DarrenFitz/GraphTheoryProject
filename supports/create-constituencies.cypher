@@ -42,3 +42,4 @@ CREATE
 (c38:Constituency {name: "Waterford", seats: 4, population: 113795}),
 (c39:Constituency {name: "Wexford", seats: 5, population: 145320}),
 (c40:Constituency {name: "Wicklow", seats: 5, population: 141012});
+

@@ -63,7 +63,7 @@ All nodes for Clare
 ===============================
 
 CREATE
-(candidate31:Candidate {Name: "Pat	Breen", gender: "Male", constituency: "Clare", party: "Fine Gael", age: 58}),
+(candidate31:Candidate {Name: "Pat Breen", gender: "Male", constituency: "Clare", party: "Fine Gael", age: 58}),
 (candidate32:Candidate {Name: "Richard Cahill", gender: "Male", constituency: "Clare", party: "Independent", age: 49}),
 (candidate33:Candidate {Name: "Joe Carey", gender: "Male", constituency: "Clare", party: "Fine Gael", age: 40}),
 (candidate34:Candidate {Name: "Clare Colleran Molloy", gender: "Female", constituency: "Clare", party: "Fianna Fail", age: 51}),
@@ -192,8 +192,8 @@ CREATE
 (candidate121:Candidate {Name: "Padraig	MacLochlainn", gender: "Male", constituency: "Donegal", party: "Sinn Fein", age: 48}),
 (candidate122:Candidate {Name: "Frank McBrearty", gender: "Male", constituency: "Donegal", party: "Independent", age: 44}),
 (candidate123:Candidate {Name: "Charlie	McConalogue", gender: "Male", constituency: "Donegal", party: "Fianna Fail", age: 58}),
-(candidate124:Candidate {Name: "Ian	McGarvey", gender: "Male", constituency: "Donegal", party: "Independent", age: 48}),
-(candidate125:Candidate {Name: "Joe	McHugh", gender: "Male", constituency: "Donegal", party: "Fine Gael", age: 44}),
+(candidate124:Candidate {Name: "Ian McGarvey", gender: "Male", constituency: "Donegal", party: "Independent", age: 48}),
+(candidate125:Candidate {Name: "Joe McHugh", gender: "Male", constituency: "Donegal", party: "Fine Gael", age: 44}),
 (candidate126:Candidate {Name: "Michael Mooney", gender: "Male", constituency: "Donegal", party: "Independent", age: 58}),
 (candidate127:Candidate {Name: "Cordelia NicMale Fhearraigh", gender: "Female", constituency: "Donegal", party: "Fis Nua", age: 44}),
 (candidate128:Candidate {Name: "Thomas Pringle", gender: "Male", constituency: "Donegal", party: "Independent", age: 58}),
@@ -785,7 +785,7 @@ CREATE
 (candidate531:Candidate {Name: "Johnny Mythen", gender: "Male", constituency: "Wexford", party: "Sinn Fein", age: 57}),
 (candidate532:Candidate {Name: "Deirdre	Wadding", gender: "Female", constituency: "Wexford", party: "AAA-PBP", age: 53}),
 (candidate533:Candidate {Name: "Mick Wallace", gender: "Male", constituency: "Wexford", party: "Independents 4 Change", age: 59}),
-(candidate534:Candidate {Name: "Ann	Walsh", gender: "Female", constituency: "Wexford", party: "Green Party", age: 42});
+(candidate534:Candidate {Name: "Ann Walsh", gender: "Female", constituency: "Wexford", party: "Green Party", age: 42});
 
 ===========================================
 Nodes for Wicklow Candidates
