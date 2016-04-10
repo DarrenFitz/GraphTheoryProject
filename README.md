@@ -12,8 +12,21 @@ The Project is a representation of how they are all connected and their relation
 I created the project by using queries to insert the nodes to represtent candidates, constituencies and parties.
 I used the 'CREATE' query to make them.
 Adding the relevent information into the nodes as such as 'name:', 'party:', 'constituency:', etc.
+```
+CREATE
+    (c1:Candidate {Name: "Bobby Aylward", gender: "Male", constituency: "Carlow-Kilkenny", party: "Fianna Fail", age: 60});
+```
 These help us link nodes to each other for relationships and doing queries.
 Used 'MATCH','WHERE', and 'CREATE' for the reltionships.
+### An Example of creating a relationship
+```
+MATCH 
+    (candidate1:Candidate), (c1:Constituency)
+WHERE 
+    candidate1.constituency = "Cavan-Monaghan" AND c1.name = "Cavan-Monaghan"
+CREATE 
+    candidate1-[:FROM]->c1;
+```
 
 
 ## Quick Queries Explanation
