@@ -17,8 +17,8 @@ CREATE
     (c1:Candidate {Name: "Bobby Aylward", gender: "Male", constituency: "Carlow-Kilkenny", party: "Fianna Fail", age: 60});
 ```
 These help us link nodes to each other for relationships and doing queries.
-Used 'MATCH','WHERE', and 'CREATE' for the reltionships.
-### An Example of creating a relationship
+Used 'MATCH','WHERE', and 'CREATE' for the relationships.
+###### An Example of creating a relationship
 ```
 MATCH 
     (candidate1:Candidate), (c1:Constituency)
@@ -29,14 +29,14 @@ CREATE
 ```
 
 
-## Quick Queries Explanation
+## Quick Query Explanation
 * The First query show all the parties in relation to their candidates.
 * The Second shows ordere candidates based on age.
 * The Third Candidates starting with "d" and asociated party 
 
 #### Party's Candidates Query
 This query displayes only the relationship between the parties and their candidates.
-Its useful if you only care about that those relationships and dont need to see the constituencies.
+It's useful if you only care about that those relationships and dont need to see the constituencies.
 
 ```cypher
 START 
